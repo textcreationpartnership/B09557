@@ -1,0 +1,1340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Abstractum chirurgiae marinae., or, An abstract of sea chirurgery: designed for the use of such chirurgeons who desire to serve at sea, yet are unacquainted with sea practice : in order to their restoring to health of sick or wounded sea-men; but may all fitly serve for most chirurgeons.  In three compendious books.  The first containeth certain directions necessary to be observed by the sea-chirurgeon in his fitting out.  The second teacheth how he should perform his chirurgical duty being at sea, both in an ingagement and at other times.  The third instructeth how he must execute the phisical office imposed on him / by John Moyle.</title>
+            <author>Moyle, John, d. 1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 157 KB of XML-encoded text transcribed from 77 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09557</idno>
+            <idno type="STC">Wing M3028</idno>
+            <idno type="STC">ESTC R224381</idno>
+            <idno type="EEBO-CITATION">64551398</idno>
+            <idno type="OCLC">ocm 64551398</idno>
+            <idno type="VID">184664</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184664)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Abstractum chirurgiae marinae., or, An abstract of sea chirurgery: designed for the use of such chirurgeons who desire to serve at sea, yet are unacquainted with sea practice : in order to their restoring to health of sick or wounded sea-men; but may all fitly serve for most chirurgeons.  In three compendious books.  The first containeth certain directions necessary to be observed by the sea-chirurgeon in his fitting out.  The second teacheth how he should perform his chirurgical duty being at sea, both in an ingagement and at other times.  The third instructeth how he must execute the phisical office imposed on him / by John Moyle.</title>
+                  <author>Moyle, John, d. 1714.</author>
+               </titleStmt>
+               <extent>[14], 126, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Richardson for Tho. Passinger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes index.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Medicine, Naval --  Early works to 1800.</term>
+               <term>Surgery, Naval --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184664:1"/>
+            <pb facs="tcp:184664:1"/>
+            <p>
+               <hi>Abſtractum Chirurgiae Marinae.</hi> OR, An ABSTRACT of SEA CHIRURGERY: Deſigned for the uſe of ſuch Chirurge<g ref="char:EOLhyphen"/>ons who deſire to ſerve at Sea, yet are unacquainted with Sea practice: In or<g ref="char:EOLhyphen"/>der to their reſtoring to Health of Sick or Wounded Sea-men; But may all fit<g ref="char:EOLhyphen"/>ly ſerve for moſt Chirurgeons. In Three Compendious Books. The Firſt containeth certain Directions neceſſary to be obſerved by the Sea-Chirurgeon in his fitting out. The Second teacheth how he ſhould perform his Chirurgical Duty being at Sea, both in an ingage<g ref="char:EOLhyphen"/>ment, and at other times. The Third inſtructeth how he muſt execute the Phi<g ref="char:EOLhyphen"/>ſical office impoſed on him.</p>
+            <p>By <hi>JOHN MOYLE</hi> Sen. ſometime a Sea-Chi<g ref="char:EOLhyphen"/>rurgeon in His Majeſties Service.</p>
+            <p>Licenſed, <hi>May</hi> 25th. 1686. <hi>ROB. MIDGLEY.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Richardſon</hi> for <hi>Tho. Paſſinger</hi> at the 3 Bibles on <hi>London-Bridge.</hi> 1686.</p>
+            <pb facs="tcp:184664:2"/>
+            <pb facs="tcp:184664:2"/>
+            <pb facs="tcp:184664:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:184664:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:184664:4" rendition="simple:additions"/>
+            <pb facs="tcp:184664:4"/>
+            <head>TO The Worſhipful, The Chi<g ref="char:EOLhyphen"/>rurgeon General of His Majeſties Navy: AND TO The Worſhipful, The Ma<g ref="char:EOLhyphen"/>ſters, or Governours of Chirurgeons-Hall, <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Worthy Gentlemen,</salute>
+            </opener>
+            <p>IT is not unknown to ſome of you, if not to all, that by your appointment I have
+<pb facs="tcp:184664:5"/>
+had the Honour to be a Sea Chirurgeon (for not a few years) in His Majeſties Ser<g ref="char:EOLhyphen"/>vice; and now I find my ſelf in years, and cannot ex<g ref="char:EOLhyphen"/>pect to hold it much longer at Sea; which turbulent Ele<g ref="char:EOLhyphen"/>ment requires the beſt of a Mans Age in whatſoever Capacity he comes there to ſerve. But before my Exit I reſolved to write this <hi>Abſtract,</hi> according to what Skill and Experience I have attained for the uſe of others of my Calling,
+<pb facs="tcp:184664:5"/>
+who are the true Sons of <hi>Eſ<g ref="char:EOLhyphen"/>culapius,</hi> and either are, or would be <hi>Sea-Chirurgeons,</hi> yet whoſe younger years, or non opportunities have not permitted them to aim at that degree of Experience, as is requiſite; but are either al<g ref="char:EOLhyphen"/>together unacquainted with the Sea Practice, or at leaſt waies have not been in In<g ref="char:EOLhyphen"/>gagements, and ſo need In<g ref="char:EOLhyphen"/>ſtruction. I undertake this, not that I think better of my ſelf than of all other Sea-Chirurgeons; for there are
+<pb facs="tcp:184664:6"/>
+ſome who were my Con<g ref="char:EOLhyphen"/>temporaries in the Wars, and their Knowledge I e<g ref="char:EOLhyphen"/>ſteem as good, and ſome better than my own: But I undertake to write this, be<g ref="char:EOLhyphen"/>cauſe I ſee others have not: And indeed being at preſent out of Imploy, I have more leiſure time than others, or then my ſelf deſires, if I could remedy it: However at this juncture it falls out opportunely to me to write it, and eſpecially for ſome reaſons urging.</p>
+            <p>
+               <pb facs="tcp:184664:6"/>Now as I have had at all times my Imployments from Your Worſhipful Compa<g ref="char:EOLhyphen"/>ny, ſo I humbly Dedicate this Book unto you. I have taken what care I can to write as becomes a Chirur<g ref="char:EOLhyphen"/>geon for the good of thoſe that will practiſe by it, that they may be provided with Knowledge to help Sick or wounded Sea men, when there is occaſion: More eſpe<g ref="char:EOLhyphen"/>cially conſidering Your Ma<g ref="char:EOLhyphen"/>ture and Piercing Judgments to whom I preſent it: I wiſh
+<pb facs="tcp:184664:7"/>
+I could have done it better, but it is the beſt I can, and I hope it will find your Candid Reception. So wiſhing you all Health and Happineſs, I Subſcribe my ſelf</p>
+            <closer>
+               <signed>Your Worſhips very Humble and Affectionate Servant, <hi>John Moyle,</hi> Sen.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:184664:7"/>
+            <head>THE PREFACE.</head>
+            <opener>
+               <salute>Chirurgical Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Do not deſign here to teach you how to be a Chirurgeon, but will ſuppoſe you to be one already: But I intend to teach you to be a Sea Chirurgeon, for by that time you have read this Book, you will find that a man may be an Ingenious Practitioner at Land; and yet, if he comes to Sea, be far to ſeek, being unac<g ref="char:EOLhyphen"/>quainted with the Sea Practice: Nay, You may have been at Sea, and yet (if not in a Sea-fight) you will be to ſeek, not knowing how to behave your ſelf at ſuch a time.</p>
+            <p>Now in theſe three Books I purpoſe to inſtruct you in Sea Practice, and make you able to help Wounded and Diſeaſed Sea men at their need. The firſt Book
+<pb facs="tcp:184664:8"/>
+directeth you how to fit your ſelf out to Sea, The ſecond ſheweth you how to perform your Chirugical Duty being at Sea. And the third how to Execute your Phyſical part, you have every thing as compendi<g ref="char:EOLhyphen"/>ous as poſſible; (for I affect not prolixity) yet all as plain as if you ſaw the things acted before your eyes. I will not by any means be guilty of applauding my ſelf; but this let me tell you, in order to gain your good opinion of the Book, That it is no fro<g ref="char:EOLhyphen"/>thy and uncertain diſcourſe: Nor is it writ<g ref="char:EOLhyphen"/>ten by one that hath attained only <hi>Theorie</hi> without Practice, but here is really Ex<g ref="char:EOLhyphen"/>perimental Knowledge: The Author be<g ref="char:EOLhyphen"/>ſides his firſt Rudiments, hath ſince Tra<g ref="char:EOLhyphen"/>velled in the World for this Experience; and in moſt of the Sea Fights that we have had with any Nation in his time, he hath been in them, and his hands have acted what he here writes. He hath not pickt this out of other Books, he hath on<g ref="char:EOLhyphen"/>ly made uſe of <hi>The New London Di<g ref="char:EOLhyphen"/>ſpenſatory</hi> to compare therewith, in or<g ref="char:EOLhyphen"/>der to the regulating of his Doſes, and for other ſuch uſes; as any Ingenious
+<pb facs="tcp:184664:8"/>
+Artiſt in reading this Book, will eaſily per<g ref="char:EOLhyphen"/>ceive: You will likewiſe find here the choi<g ref="char:EOLhyphen"/>ceſt of Medicines at this day known in the World, for the Cure of every Diſeaſe and Wound. 'Tis true there are ſome that w<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e not formerly uſed by Sea Chirurgeons; but ſince the Impreſſion of <hi>The New London Diſpenſatory</hi> by Doctor <hi>Salmon,</hi> they are become in Practice, and are known to be the moſt excellent of all Medicaments, both Balſams, Eſſences, and others. In<g ref="char:EOLhyphen"/>deed ſome of them (as they are of Incom<g ref="char:EOLhyphen"/>parable goodneſs, ſo they are coſtly) but a mans Life and Limbs are valuable; and beſides, to countervail the Coſt, the Do<g ref="char:EOLhyphen"/>ſes are generally very Minute, and ſmall quantities of ſuch will be ſufficient to be carried with you: Therefore ſince you muſt buy Medicines, 'tis well if you take ſuch of them, (though they are coſtly) as are now approved to be most effectual.</p>
+            <p>Then as to Practice: You ſhall find here a convenient Method to Practice by: You are not bound here to give large and lothſome Bolus, or Potions; nor yet confin'd to one particular thing, and
+<pb facs="tcp:184664:9"/>
+ſo neceſſitate your Patients to <hi>Hobſons</hi> Choice, (that or none;) for ſome Pati<g ref="char:EOLhyphen"/>ents can ſooner dye than take the former, and the latter Nauſiates being taken of<g ref="char:EOLhyphen"/>ten: But I ſhew you here ſmall and plea<g ref="char:EOLhyphen"/>ſant Doſes, or ſome few grains of ſome excellent Powder made up in a ſmall Pill or two, or ſome few Drops of ſome No<g ref="char:EOLhyphen"/>ble Eſſence, drank in a glaſs of the choiceſt Wine, or Cordial Liquor, which would invite even a Child to take it.</p>
+            <p>Then if the Patient cannot take a Me<g ref="char:EOLhyphen"/>dicine in one form (as Bolus-waies) you have another, as Pills to perform the ſame intention; and if he is averſt to theſe, you have here ſome grateful Liquors: This order I have obſerved for you throughout the Book: And with it I wiſh you Pro<g ref="char:EOLhyphen"/>ſperity in your Ingenious and Juſt En<g ref="char:EOLhyphen"/>deavours,</p>
+            <closer>
+               <signed>JOHN MOYLE.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:184664:9"/>
+            <head>ERRATA.</head>
+            <p>IN the Epiſtle Dedicatory, for <hi>aim</hi> read <hi>attain.</hi> Pag. 7. line 11. for <hi>Electum</hi> read <hi>Electuarium,</hi> and the ſame here that word is in any other place, p. 16. l. 11, 12. id 30. for <hi>Glaſſes</hi> r. <hi>Claſſes,</hi> p. 17. l. 19. for <hi>Sarrina's Farrina's,</hi> p. 19. the <hi>a</hi> that is at the end of line 6, buld be at the end of line 3. p. 20. l. 2. for <hi>Cruiſe</hi> r. <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew,</hi> p. 26. l. 2. for <hi>lighter</hi> r. <hi>light,</hi> p. 32. l. 12. for <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lecta</hi> r. <hi>Electu.</hi> p. 34. l. 30. for <hi>Spirit of Vinum</hi> r. <hi>Spiri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Vini,</hi> p. 35. for <hi>minus</hi> r. <hi>minor,</hi> and the like where is word is in other places, p. 36. for <hi>ſtuff</hi> r. <hi>ſtuff,</hi> p. 37. 29. for <hi>theſe</hi> r. <hi>this,</hi> p. 38. l. 2. for <hi>deccicatrum</hi> r. <hi>de<g ref="char:EOLhyphen"/>cativum,</hi> p. 39. for <hi>extramoſities</hi> r. <hi>extranioſities,</hi> p. 41. 4. for <hi>it</hi> r. <hi>is,</hi> and for <hi>wounds</hi> r. <hi>wound,</hi> p. 54. l. 10. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>electo</hi> r. <hi>electu,</hi> p. 61. l. 30. for <hi>ſtuff</hi> r. <hi>ſtuph,</hi> p. 66. 28. for <hi>unguent. &amp; album</hi> r. <hi>unguent. album &amp; populion.</hi> 68. l. 12. for <hi>Cribratum</hi> r. <hi>Cribroſum,</hi> p. 69. l. 23. for <hi>ab.</hi> r. <hi>orab.</hi> p. 80. l. 29. for <hi>(and Elixir)</hi> r. <hi>and give <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lxir,</hi> p. 83. l. 1. r. <hi>Olium Roſarum omphacinum,</hi> p. 83. 5. for <hi>Quint. Coloc.</hi> ℥j. r. <hi>Quint. Colocynth.</hi> 
+               <g ref="char:dram">ʒ</g>ſ. p. 82. 9. for <hi>Carioſtinum</hi> r. <hi>Cariocoſtinum,</hi> p. 92. This mark that is at the word <hi>Liquor,</hi> ſhould be at <hi>Sarſa,</hi> the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>xt line, p. 97. for <hi>Combotes</hi> r. <hi>Bombotes,</hi> p. 103. <hi>Cymamoy</hi> r. <hi>Cynamonii,</hi> p. 108. for <hi>Decoct. Carminativ.</hi> r. ℥x. p. 112. l. 11. for <hi>childs</hi> r. <hi>child,</hi> and in the laſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e but two, for <hi>ana</hi> r. <hi>a.</hi> p. 123. l. 20. for <hi>now it is held <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> r. <hi>now it is not held good,</hi> p. 125. firſt line, for <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>int.</hi> r. <hi>Quint.</hi> p. 126. laſt line, for <hi>the new Skin,</hi> r. <hi>a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v Skin.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="book">
+            <pb facs="tcp:184664:10"/>
+            <pb n="1" facs="tcp:184664:10"/>
+            <head>The firſt part containeth certain Di<g ref="char:EOLhyphen"/>rections neceſſary to be obſerved by the Chirurgeon in his fitting of him<g ref="char:EOLhyphen"/>ſelf out for the Sea.</head>
+            <div n="1" type="direction">
+               <head>The Firſt Direction.</head>
+               <p>WOuld you be a Sea Chirurgeon; Then it is neceſſary you ſhould underſtand, firſt, how to fit your ſelf out for the Sea, in order to which, you are firſt to conſider what thoſe Accidents and Diſtempers are, that are moſt incident to the Sea, that you may provide Medicines and Inſtruments proper for them.</p>
+               <p>They are theſe that follow,</p>
+               <p>All manner of Wounds, eſpecially by Gunſhot, Bruiſes or Contuſions both out<g ref="char:EOLhyphen"/>ward and inward; Spreins, Diſlocations, and Ruptures, Scalding and Burning, eſpe<g ref="char:EOLhyphen"/>cially with Pouder; Pains, Aches, and Numbneſs of Limbs, Tumours, Ulcers, and Gangrenes, Ophalmias, Squinzys,
+<pb n="2" facs="tcp:184664:11"/>
+Hemorrhage at the Noſe, Tooth-ach, Piles, Procedentia Ani.</p>
+               <p>And then inwardly: The Scurvy, Fe<g ref="char:EOLhyphen"/>vers and Agues; Fluxes, Cholera, Gripes and Cholick, Surfeits, Colds, Catarrhs, Rhumes, Pluriſie, Strangury, and Gravel; Worms, Coſtiveneſs.</p>
+               <p>Now you muſt underſtand that there be ſeveral Diſeaſes that are very rarely cured at Land, and are not expected to be cured at Sea; as Conſumption, Dropſie, Gout, Evil, Palſie, Epilepſie, and others; and ſeveral Chirurgical Operations that are not expected to be performed at Sea, as Cutting for the Stone, Couching Ca<g ref="char:EOLhyphen"/>taracts, Extirpating Wens, and the like.</p>
+               <p>The former Accidents and Diſtempers you are abſolutely obliged to provide for, but theſe latter not: However, if you think you can do any good in theſe deplo<g ref="char:EOLhyphen"/>rable Diſeaſes, with the Medicines or In<g ref="char:EOLhyphen"/>ſtruments you have for the other, you may uſe your endeavours, and in ſo doing, you will do well.</p>
+            </div>
+            <div n="2" type="direction">
+               <head>The Second Direction.</head>
+               <p>Secondly, To know what thoſe Medi<g ref="char:EOLhyphen"/>cines and Inſtruments are, that are proper to be carried for the Cure of thoſe Acci<g ref="char:EOLhyphen"/>dents and Diſeaſes before enumerated, your way is to turn over this Book, and ſee
+<pb n="3" facs="tcp:184664:11"/>
+what Medicines and Inſtruments are here appointed, and what I have uſed in every Accident and Diſeaſe: Take a Catalogue of them, the which digeſt into an invoice to fit by; for I will aſſure you that you will here find the beſt of Medicines, and Bal<g ref="char:EOLhyphen"/>ſams that are at this day known or Practi<g ref="char:EOLhyphen"/>ſed withal; and every needful Inſtrument you will find named, and the uſe of it ſhewed occaſionally in the Book: Only this obſerve, that whereas I in ſome pla<g ref="char:EOLhyphen"/>ces name many things that are proper for the ſame Diſtemper, and yet any one of them will cure it: That that is for your full knowledge, and leaſt you may per<g ref="char:EOLhyphen"/>chance have one of them, and not the other.</p>
+               <p>In this caſe you may chuſe which of them you believe to be the beſt, and not charge your ſelf with more, only this variety you muſt neceſſarily uſe: If a man cannot take a Bolus, you muſt have Pills that will per<g ref="char:EOLhyphen"/>form the ſame Office; or if he cannot take Pills, you muſt have a Potion to execute the ſame intention; for ſome men cannot take one manner of Medicament that can take another; and a Patient muſt not be ſuffered to miſcarry becauſe he cannot take only one ſort of Medicine.</p>
+               <p>
+                  <pb n="4" facs="tcp:184664:12"/>To make it more plain to you: There are the beſt of Diaphoretiqnes, in the World, ſpoken of in this Book for the rea<g ref="char:EOLhyphen"/>ſons above-mentioned, as <hi>Mitherid. Thri<g ref="char:EOLhyphen"/>ac. Ven. Tinctura Gummi, Guaci,</hi> and o<g ref="char:EOLhyphen"/>thers, all of them extraordinary proper; but then there is only <hi>Thriac Lond Nova,</hi> that executes the Office of them all, and may be uſed in all Diſeaſes wherein Sweat<g ref="char:EOLhyphen"/>ing is required; only it is an <hi>Electuary,</hi> and it is poſſible ſome cannot take an <hi>E<g ref="char:EOLhyphen"/>lectuary</hi> (although indeed this may be ta<g ref="char:EOLhyphen"/>ken in Wine) then you ſhould have <hi>Aqu. Thriac,</hi> or the like to drink.</p>
+               <p>And this further, If your ſelf has had the experience of any Medicine (that you do not ſee named in this Book,) for the cure of any Diſeaſe, you may take that Medicine, and leave out which of mine you think you can beſt ſpare: For in the for<g ref="char:EOLhyphen"/>ming of your invoyce you muſt conſider that you have no more room than only a Chirurgery Cheſt, and Drug Cheſt to contain all your things; therefore you are not to carry greater variety than of ne<g ref="char:EOLhyphen"/>ceſſity you muſt. And let thoſe be of the moſt pertinent, and univerſal tendency, one of which is proper for the Cure of many Diſeaſes. As indeed, what need a Sea Chirurgeon to incumber his Cheſt with
+<pb n="5" facs="tcp:184664:12"/>
+                  <hi>Pil aurae, faetidae,</hi> or ſeveral others, whilſt <hi>Pil Rudij</hi> of it ſelf will do all that they can do.</p>
+               <p>So among Chymical Medicaments what need is there for a Sea Chirurgeon to take <hi>Aurum Potabile, Precipitatus Aurius:</hi> or <hi>Ma<g ref="char:EOLhyphen"/>na Mercurij.</hi> When <hi>Bezoarticum ſolare Schro<g ref="char:EOLhyphen"/>deri,</hi> will do as much as them all, in any diſaeſe they are appropriated unto.</p>
+               <p>You are therefore I ſay to take the moſt Catholick, but no more of a ſort, than neceſſity enjoyns you.</p>
+            </div>
+            <div n="3" type="direction">
+               <head>The Third Direction.</head>
+               <p>Thirdly, In forming your invoyce, you muſt have a care in regulating your quan<g ref="char:EOLhyphen"/>tity of each Medicine, that you may carry what is ſufficient, but not ſuperfluous.</p>
+               <p>To do this, you muſt firſt conſult what your Complement of men are, and Second<g ref="char:EOLhyphen"/>ly, The length of your intended Voyage: At leaſt wayes how long it will be ere you may expect a recrute. For reaſon tells, that you muſt fit a greater quantity of each Medicament for a greater quantity of men, than for a leſſer: and more of every Me<g ref="char:EOLhyphen"/>dicament for a long Voyage than for a ſhort.</p>
+            </div>
+            <div n="4" type="direction">
+               <pb n="6" facs="tcp:184664:13"/>
+               <head>The Fourth Direction.</head>
+               <p>Fourthly, Conſider the Chances and Maladies that may be expected in that ex<g ref="char:EOLhyphen"/>pedition you are upon, or Climate you are bound unto; that you may in a ſpecial manner furniſh your ſelf with quantities, for thoſe expectations; as if you go into the Wars, you muſt expect wounds and broken Bones, then you muſt carry more quantity of Vulneraries, than if you were not bound into the Wars.</p>
+               <p>So as to the Climate: If you are bound to <hi>Newfound Land,</hi> you may expect the Scurvy, therefore provide good quanti<g ref="char:EOLhyphen"/>ties of <hi>Scorbuticks;</hi> more than if you were to go a <hi>Straights</hi> Voyage: But again, if you were to go to <hi>Scanderoon,</hi> there is ve<g ref="char:EOLhyphen"/>ry often malignant Fevers and Fluxes, but ſeldom the Scurvy: Therefore you muſt now put up greater quantities of <hi>Antefe<g ref="char:EOLhyphen"/>britiques,</hi> then of <hi>Scorbutiques.</hi> I ſay, al<g ref="char:EOLhyphen"/>though you muſt carry ſufficient quanti<g ref="char:EOLhyphen"/>ties of Medicines proper for every Acci<g ref="char:EOLhyphen"/>dent and Ailment that doth uſually be<g ref="char:EOLhyphen"/>fall at Sea, yet in a ſpecial manner you muſt provide for the Accidents and Di<g ref="char:EOLhyphen"/>ſtempers that may be expected in the Voy<g ref="char:EOLhyphen"/>age, or expedition you are now upon.</p>
+            </div>
+            <div n="5" type="direction">
+               <pb n="7" facs="tcp:184664:13"/>
+               <head>The Fifth Direction.</head>
+               <p>Fifthly, You would do well to conſider that ſome Medicines are expended at Sea faſter than others, and ſome are given in greater Doſes than others, and therefore you muſt not carry the like quantity of the one as of the other. There is more of <hi>Baſilicon</hi> uſed, than of Apoſtolorum; and more of Diapalma, than of <hi>Ad Herniam,</hi> and ſo the doſe of <hi>Electum Lenitivum</hi> is from <g ref="char:dram">ʒ</g>
+                  <hi>vi</hi> ad <hi>xij,</hi> whereas that of <hi>Cario coſtinum,</hi> is but from <g ref="char:dram">ʒ</g>
+                  <hi>ij</hi> ad <hi>iij,</hi> therefore it is not reaſonable that you ſhould take as much of the one of theſe Medicines, as of the other; except it be becauſe that of the leſſe Doſe may be more in uſe than the other, and in that Caſe it may be equalized.</p>
+            </div>
+            <div n="6" type="direction">
+               <head>The Sixth Direction.</head>
+               <p>Sixthly I would adviſe you if you take greater quantities of thoſe things, that are leaſt in uſe, and ſmalleſt in Doſe, let them be ſuch as will keep good at Sea for a long time; for then 'tis true you may have no great loſs in them; but if they be ſuch as will decay in a ſhort time, then you had beſt be adviſed as to your Quantities, an
+<pb n="8" facs="tcp:184664:14"/>
+Ounce of <hi>Stibium</hi> will be as good at ſeven years end, as it was the firſt day; but your <hi>Rubarb</hi> at 4 years old will have the worm; therefore when you fit, mind ſuch things as theſe, and take quantities accord<g ref="char:EOLhyphen"/>ingly.</p>
+            </div>
+            <div n="7" type="direction">
+               <head>The Seventh Direction.</head>
+               <p>Seventhly, To ſave charge and incum<g ref="char:EOLhyphen"/>brance, let me adviſe you to inform your ſelf what Medicines or Drugs are plenty in the Country where you are going, that you may carry with you out of <hi>England</hi> as much of thoſe Medicines or Drugs only as you Judge will ſerve you thither.</p>
+               <p>Why ſhould a man carry any quantity of <hi>Theriaca Andromica</hi> to <hi>Venice,</hi> when as that is the place where it is made, and ei<g ref="char:EOLhyphen"/>ther for Truck, or Money, you may have the beſt, and beſt cheap: Or, Why <hi>Cena</hi> to <hi>Alexandria</hi> in <hi>Egypt,</hi> and I have ſeen it ſold there, and that of the beſt in the World, for a quarter of the money that we buy it at home.</p>
+               <p>The like I ſay of <hi>Rubarb</hi> and <hi>Scamony</hi> at <hi>Ptolemais</hi> in <hi>Paleſtine.</hi> So that if a man be bound into any part of <hi>Turky,</hi> he need carry only as much of theſe things as will ſerve him thither, and no more. What
+<pb n="9" facs="tcp:184664:14"/>
+need is there of carrying Spices or Gumms to the <hi>Indies,</hi> or Wine, Brandy, or Recchee to <hi>France, Spain, Portugal,</hi> or <hi>Italy,</hi> when their Ports vend thoſe Commodities. There<g ref="char:EOLhyphen"/>fore in your fitting mind this Direction.</p>
+            </div>
+            <div n="8" type="direction">
+               <head>The Eighth Direction.</head>
+               <p>Eighthly, If you are bound out in a Merchant man to any place that is known to be ſickly, you would do well to put the Commander in mind, to carry in the Ship ſome freſh and neceſſary proviſions, leaſt men ſhould be ſick and miſcarry for want of it; for it is not all the Medicines in your Cheſt that will recover men, with<g ref="char:EOLhyphen"/>out freſh and wholeſome Diet.</p>
+               <p>If you go any Forraign Voyage, or into the Wars in a Ship of the Kings, you have theſe things provided for you: for His Majeſty graciouſly allows neceſſary Proviſions for ſick and wounded; which the Chirurgeon General of His Majeſties Navy, with care and diſcretion puts up and diſpoſeth of to each Chirurgeon, ac<g ref="char:EOLhyphen"/>cording to the Complement of men the Ship carries, and the Voyages he is a going; which is a great comfort and refreſhment to the Men, and an eaſe to the Chirurge<g ref="char:EOLhyphen"/>on in curing them.</p>
+            </div>
+            <div n="9" type="direction">
+               <pb n="10" facs="tcp:184664:15"/>
+               <head>The Ninth Direction.</head>
+               <p>Now as to the Pounds, or Ounces of each individual Medicine that you ſhould carry for any particular Voyage, and Com<g ref="char:EOLhyphen"/>plement of Men; If it be in a Merchant man, you have only cuſtom to guide you by; you carry what quantities you know others have done and have found ſufficient. Therefore I'le tell you, that for my own part when I have gone in a Ship of about 40 men, and a Voyage ſuppoſed 12 or 14 Months. I have carried of Medicines of the largeſt Doſe, and moſt frequent uſe, <hi>lb ij</hi> of each, and of the reſt proportiona<g ref="char:EOLhyphen"/>bly. However I impoſe no quantities on you, you are at your own liberty; only I give you a light to ſee by:</p>
+               <p>And if you go in a Man of War, your quantities are judiciouſly regulated by the Governours of <hi>Chirurgeons Hall:</hi> So (that if you would) you ſhall not, take leſs quan<g ref="char:EOLhyphen"/>tities than they judge to be ſufficient. Therefore I preſume not to adviſe you to any certain quantities, but refer you to their more mature Judgments, Only to ready you for their view, let me acquaint you, that when I my ſelf has gone out in a Fourth, Third, or Second Rate, my lar<g ref="char:EOLhyphen"/>geſt
+<pb n="11" facs="tcp:184664:15"/>
+Jarrs and Glaſſes were generally up<g ref="char:EOLhyphen"/>ward of <hi>lb iij,</hi> that they might contain <hi>lb iij</hi> compleat, and yet room for fermen<g ref="char:EOLhyphen"/>ting Medicines, and my other Medicines have been proportion'd accordingly; and theſe have for the moſt times been appro<g ref="char:EOLhyphen"/>ved of as good moderate quantities. And this farther, when I have gone in a fourth rate I have taken as great quantities, as when in a ſecond; for you muſt conſider this, that the length of the fourth rates Voyage may equalize the ſecond rates great complement of men, and ſhort Voyage, for uſually the great ſhips are not out above ſix or ſeven Months, but the leſſer a much longer time. However, being you put up your Medicines before they come to view them, 'tis your wiſeſt way to take no leſs quantities than you know others have taken, and have been approved of as ſufficient. Otherwiſe when they come to view, they will make you take more (as they have ſometimes done by me in the like caſe) and that will create you a double trouble.</p>
+               <p>I only give you this light, that you may be in a competent readineſs for the view, and as to the certain quantities you muſt ſubmit (as I have done) to the Governours judgment and ordering.</p>
+            </div>
+            <div n="10" type="direction">
+               <pb n="12" facs="tcp:184664:16"/>
+               <head>The Tenth Direction.</head>
+               <p>Having prepared your Invoyce accord<g ref="char:EOLhyphen"/>ing to the foregoing Directions, you are now to begin to put up Medicines. And here let me adviſe you to ſee all things, whether they be good.</p>
+               <p>'Tis true the Governours of <hi>Chyrurgeons Hall</hi> do throughly inſpect the medicines that go into the Kings Ships, and will not ſuffer any thing that is ill to paſs; but you put up your Medicines whilſt they are not there. Therefore to ſave an after trouble, be very circumſpect as to what you take. For ſo it is, that in ma<g ref="char:EOLhyphen"/>ny Medicines one Apothecary can deceive another, and much more a Sea Chyrur<g ref="char:EOLhyphen"/>geon, whoſe calling it is not to make all his own Medicaments. However al<g ref="char:EOLhyphen"/>though 'tis impoſſible for you to know whether every Ingredient be in a Com<g ref="char:EOLhyphen"/>pound Medicine that the Diſpenſatory ap<g ref="char:EOLhyphen"/>points, yet by the ſight, ſmell, taſte, or conſiſtence, you will judge within a little more or leſs, (if you make it your buſi<g ref="char:EOLhyphen"/>neſs to underſtand Medicines) whether it be ſound, or Sophiſticated.</p>
+               <p>Beſides you are the Perſon that muſt ſtand or fall by the repute or diſ-repute that your Medicines acquire, therefore it
+<pb n="13" facs="tcp:184664:16"/>
+behoves your ſelf to ſee to the beſt of your knowledge that what Medicines you put up be good. Eſpecially if you go in a Merchant-man where you have no view upon your Cheſt. And indeed you are very happy if you meet with an honeſt Apothecary or Chymiſt who diſpence and prepare their Medicines faithfully, and that will not put bad things upon you.</p>
+            </div>
+            <div n="11" type="direction">
+               <head>The Eleventh Direction.</head>
+               <p>It remaines now that I direct you to take ſuch care in putting up your Medi<g ref="char:EOLhyphen"/>cines, that they may be preſerved good as long as poſſible. To do this, put up as many things as you can in Jars, Glaſſes and Boxes. Let every thing be well covered that the Air hurt them not, nor that they ſpill, and ſo you come to damage. See that your <hi>Rhubarb</hi> be new and ſound, and that the worm hath not got into it (as it will certainly do at four years old) let it be wrapt in Cotton, and kept in a Box dry. See likewiſe that your Liquid Me<g ref="char:EOLhyphen"/>dicines that will ferment, be put into Jars or Glaſſes that will hold more then the quantities you put in them, that there may be room to ferment. Let not ſuch Bottles of Syrups be Corked, but cover<g ref="char:EOLhyphen"/>ed
+<pb n="14" facs="tcp:184664:17"/>
+well with Leather and tied hard, and the Cover pricked, and let your ferment<g ref="char:EOLhyphen"/>ing Electuaries be often ſtirred down. Such as grow dry at Sea, add to them ſome of the humid ingredient whereof they were made, and Honey to ſome, Su<g ref="char:EOLhyphen"/>gar to others, and Spirit of Wine to o<g ref="char:EOLhyphen"/>thers. When your Maſs of Pill <hi>Rudii</hi> grows hard, temper it with rectified Spi<g ref="char:EOLhyphen"/>rit of Wine by the warm Fire to its right conſiſtence. Other Pills, as <hi>Cochiae,</hi> or <hi>Ruffi,</hi> ſtrow <hi>Cream or Tartar</hi> on the Maſs, and it will preſerve them in their due conſiſt<g ref="char:EOLhyphen"/>ence. Your Rich Confections, as <hi>Alchermis,</hi> or <hi>De hyacinthis</hi> will quickly dry and ſpoil. Therefore carry the ſpecies of ſuch, and make them up as you have occaſion; hav<g ref="char:EOLhyphen"/>ing with you <hi>Syrupus Lemonibus,</hi> and others for that purpoſe. Let all your Jars and Glaſſes both great and ſmall be ſquare, and not round, that they may ſtow the better; and let them be all ſtrong double Glaſſes, that will not break upon a ſlight occaſion. It hath been accuſtomary to put them into Bladders, as well to ſave what is in them, (if any one ſhould chance to break) as to preſerve other Medicines from being ſpoiled, by the Oyles or Co<g ref="char:EOLhyphen"/>roſives, if they ſhould ſpill, but good double Jars and Glaſſes prevent that.</p>
+            </div>
+            <div n="12" type="direction">
+               <pb n="15" facs="tcp:184664:17"/>
+               <head>The Twelfth Direction. To fit the Chirurgery Cheſt.</head>
+               <p>Now for the greater ſafety of your Medicines, let me adviſe you, not to have drawing Boxes at the Ends of the bottom of your Cheſt, as ſome uſe to have, and carry their Seeds and other things in them; for when you ſhall need any thing that is in them, you muſt take out ſeveral Medicines that ſtand in the bottom of the Cheſt before them; which Pots or Glaſſes will be in danger of breaking, eſpecially if there goes a great Sea, and the Ship rouls.</p>
+               <p>Some Chyrurgeons (eſpecially in ſmall Merchant-men) carry their Drugs in the bottom of their Cheſts, together with ſome Medicines, which is altogether in<g ref="char:EOLhyphen"/>convenient (if you can avoid it) for there muſt be a prepoſterous diſplacing of things before you can come at the Medicine you would have, therefore if I am worthy to adviſe you, let not your Drugs be in your Chyrurgery Cheſt; but have Partitions all over the bottom, and let thoſe parti<g ref="char:EOLhyphen"/>tions be bigger than them at top; and in them place your greateſt Jars and Glaſſes
+<pb n="16" facs="tcp:184664:18"/>
+(and eſpecially your Oyles and Corroſive Medicaments, that if they ſhould ſpill or break, they cannot fall on others to in<g ref="char:EOLhyphen"/>dammage them). Beſides in one of thoſe partitions, you may place four of ſuch ſmall ſquare Glaſſes, as your Oyles of <hi>Sul<g ref="char:EOLhyphen"/>phur</hi> or <hi>Vitriol</hi> are put in, if you wrap them with Tow, and place them decent<g ref="char:EOLhyphen"/>ly one upon another. Let each kind of Medicines be placed in Glaſſes by them<g ref="char:EOLhyphen"/>ſelves; as the Syrups in one Glaſs, the Electuaries in another; and ſo of the Oyles, and Unguents, or Waters; with every Medicament its Lybel upon it. And keep account in your Book whereabout each Medicine ſtands, that you may either go or ſend for the Medicine you want and find it (as it were) in the dark.</p>
+               <p>Having thus fitted the bottom of your Cheſt, there is uſually a hanging drawer under the middle of the top partitions, where ſome Chyrurgions uſe to keep their Inſtruments; Let that be for your Empla<g ref="char:EOLhyphen"/>ſters. And then fall in hand with the top of your Cheſt. You are to place round the top the remainder of your bigger Jars and Glaſſes, becauſe they are the big<g ref="char:EOLhyphen"/>ger partitions: And as in the bottom, ſo here, let each kind of Medicines be in their peculiar Glaſſes and writ upon.</p>
+               <p>
+                  <pb n="17" facs="tcp:184664:18"/>And in the partitions of your top Drawers you may place in ſome four, in others more, of your ſmall ſquare Glaſſes and Jars; as four <hi>ounces,</hi> two <hi>ounces,</hi> and <hi>ounces;</hi> and every thing written upon, and account taken in your book, you will know readily where to find each Medicine in the bottom of any partition, although its Lybel ſhould be loſt, and let your box of ſmall Weights and Scales be fixed to the inſide of the Lid of your Cheſt, as alſo your <hi>Electuary</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nguent Spatula's,</hi> and <hi>Tyle</hi> to mix <hi>Boluſes</hi> on; with other Neceſſaries.</p>
+            </div>
+            <div n="13" type="direction">
+               <head>The Thirteenth Direction. For fitting the Drug Cheſt.</head>
+               <p>Having furniſhed your <hi>Chyrurgery Cheſt,</hi> now fall in hand with your <hi>Drug Cheſt.</hi> 'Tis uſual to put your <hi>Sarrina's, Seeds, Roots, Herbs, Flowers,</hi> and ſuch like in Papers, and ſo write upon them; but do you put theſe papers into ſmall Canvas Bags, each bag mark'd with a peculiar Mark. Let ſeveral of theſe Papers be put into one bag; as, the ſeveral papers of <hi>ſeeds</hi> into one bag, the <hi>herbs</hi> into another, the <hi>roots</hi> into a third, and ſo of the reſt.</p>
+               <p>
+                  <pb n="18" facs="tcp:184664:19"/>Then take account in your Book what is in each bag ſo marked, and you will ea<g ref="char:EOLhyphen"/>ſily find what you want when you have oc<g ref="char:EOLhyphen"/>caſion. Let the things be in bags, becauſe papers break in rummaging, and ſpill a<g ref="char:EOLhyphen"/>bout the bottom of the Cheſt, mixing one thing with another.</p>
+               <p>Here your Box of firſt intentions are likewiſe to be placed; <hi>(viz.)</hi> your diſ<g ref="char:EOLhyphen"/>membring Pledgets, Buttons and Tents, Rowlers, Croſs-bolſters, Linnen, Tow, Tape, Leather, Bladders, and other Ne<g ref="char:EOLhyphen"/>ceſſaries. Be ſure your fine Tow be put up in a bag, leaſt a Candle hap to catch in it. And let your Reſtringent Powder be there likewiſe with the reſt of your firſt inten<g ref="char:EOLhyphen"/>tions. Your box of large Inſtruments ſhould be carried there likewiſe, becauſe there is nothing in that Cheſt but what is dry. But ſee that they be firſt made ſharp and bright by your Inſtrument-maker, and let them be often looked on and rubb'd with a piece of dry Cotton, leaſt they ſhould ſpeck or ruſt.</p>
+            </div>
+            <div n="14" type="direction">
+               <head>The Fourteenth Direction.</head>
+               <p>Now for as much as every Chyrurgeon hath not ſeen made, nor uſed the firſt in<g ref="char:EOLhyphen"/>tentions, I'le ſhew you how to make them now, and how to uſe them elſewhere.</p>
+               <p>
+                  <pb n="19" facs="tcp:184664:19"/>Take fine Tow, and form round Pled<g ref="char:EOLhyphen"/>gits ſmooth and even, and of a reaſonable ſubſtance. about the breadth of the end of ſtump; ſome bigger and others leſſer, as ſtumps may be, and ſome larger than any ſtump, Let them lye upon a ſmooth board, a then beat the whites of Eggs, with <hi>ace<g ref="char:EOLhyphen"/>tum,</hi> and ſprinkle the Pledgits therewith till they are thorough wet.</p>
+               <p>Then take another ſmooth board, and lay upon them to preſs them hard; after, take off the upper board and carry them in<g ref="char:EOLhyphen"/>to a Sun-ſhine place to dry; and when they are thorowly dry put them up in your box for uſe. Form likewiſe diſmembering Buttons in the ſhape of a large Button; let them be wet likewiſe in the ſame Liquor, and dryed, and put up into the Box. Make Tents alſo of all ſizes, whe<g ref="char:EOLhyphen"/>ther for Musket Shot, Piſtol Shot, Pun<g ref="char:EOLhyphen"/>cture, or any ſuch Wound whatever.</p>
+               <p>Theſe things put up together with the Reſtringent Powder, are called our firſt intention, and ought to be ready by you at all times, and not to make when you have occaſion to uſe them.</p>
+            </div>
+            <div n="15" type="direction">
+               <head>The Fifteenth Direction.</head>
+               <p>Laſtly, Being fitted in all things accor<g ref="char:EOLhyphen"/>ding to theſe Directions, and having your
+<pb n="20" facs="tcp:184664:20"/>
+Cheſts viewed, you are to get them with your ſelf, and cruiſe on Board, and ſee them placed as conveniently as poſſibly you can, to be got at; and in a dry place, where wet may not come at them to ſpoil either your Medicines or Inſtruments, and let them be ſo laſhed that they may not over<g ref="char:EOLhyphen"/>ſet in bad Weather by the rowling of the Ship. Being now on Board, and yet in the River, furniſh your dreſſing Box (that is a box with ſix or eight partitions with Pots or Glaſſes of Oyles or Balſams, and Em<g ref="char:EOLhyphen"/>plaſters, ready ſpread for preſent occaſion) which box you muſt every morning carry to the Maſt between Decks, to dreſs ſuch as have any hurts or ailments; and there with our Mortar we uſually ring, that ſuch as have occaſion may hear in any part of the Ship and come to be dreſt. Thus you are compleatly fitted and ready for any thing that ſhall happen.</p>
+               <p>However ſome of theſe Directions may ſeem of ſmaller importance then others, yet the leaſt are neceſſary, and to be heed<g ref="char:EOLhyphen"/>ed; for by the non-obſervance of ſuch, my ſelf has ſometimes ſuſtain'd damage and trouble, which by the regarding of them you may avoid. But I know you would be at greater things, and you'l meet with greater anon.</p>
+            </div>
+         </div>
+         <div n="2" type="book">
+            <pb n="21" facs="tcp:184664:20"/>
+            <head>
+               <hi>THE Second BOOK.</hi> Teacheth how the Chyrurgeon ought to perform his Chyrurgical Duty being at Sea.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> How the Chyrurgeon ſhould behave himſelf on an Engagement Day.</head>
+               <p>I'Le Imagine that you are at Sea now in a Man of War, and in ſight of the Enemy; and all men are clearing their reſpective quarters, and fitting them<g ref="char:EOLhyphen"/>ſelves for fight; at what time you, as you are Chyrurgeon of the Ship, muſt prepare as followeth.</p>
+               <p>Firſt you muſt ſee that your platform be laid as even as may be, with a Sail ſpread upon it, which you muſt ſpeak to the Commander to order. In a Merchant-man this is uſually in the Cable teere; but in
+<pb n="22" facs="tcp:184664:21"/>
+Men of Warr it is generally in Hold, abaft the Maſt, between that and the Bulk head of the Cockpit from ſide to ſide.</p>
+               <p>On this platform you muſt place two Cheſts, to ſet your wounded men on to dreſs them, one for your ſelf to perform the greater operation on, and the other for your mate to dreſs ſlighter wounds on. You are likewiſe to have by you two Tubs with water; the one to throw am<g ref="char:EOLhyphen"/>putated Limbs into until there is conveni<g ref="char:EOLhyphen"/>ency to heave them over-board; and the other to dip your diſmembring Bladders in, or to waſh between each Operation, and for other ſervices.</p>
+               <p>Let your Inſtruments likewiſe both great and ſmall be ready by you on the Platform. And your firſt intentions muſt not now be to ſeek, nor muſt any one neceſſary now be miſſing. As your <hi>pulv. reſtring. acetum Ova,</hi> Oyles for Bruiſes and Burnings; Cordials to give when men faint; Seer-clothes ready ſpread (for now all fire muſt be out in the Ship, except Candles and Matches).</p>
+               <p>Let good ſtore of the largeſt Candles be placed decently about the Platform to give good light, and inſtead of fire to warm your Cear-clothes, or heat your Oyles, as you have occaſion; and be ſure
+<pb n="23" facs="tcp:184664:21"/>
+your reſtrictives be ready mixt, your <hi>reſtri<g ref="char:EOLhyphen"/>ctivum Com.</hi> in one Baſon, and your potenti<g ref="char:EOLhyphen"/>al Cautry in another; and your <hi>Aqua ſtiptica Vitrioli</hi> in a third, that they may not be to fetch, or mix when you have a pre<g ref="char:EOLhyphen"/>ſent need to apply them.</p>
+               <q>
+                  <hi>Your</hi> Reſtrictiva Communa <hi>is this, Rec.</hi> Alb. Ovarium, beat them with ace<g ref="char:EOLhyphen"/>tum, and mix therewith Pulv. reſtring. to a fit conſiſtence.</q>
+               <p>By this time I'le ſuppoſe the fight is be<g ref="char:EOLhyphen"/>gun, and your Ship is ingaged, and woun<g ref="char:EOLhyphen"/>ded men begin to be brought down: And firſt one, who to ſave his Life, muſt have his Limbs amputated.</p>
+               <p>You ſee part of the Limb carried away by the Shot; as the Hand from the Arm, the Foot from the Leg, or elſe the Bones ſo ſhattered, that ſhould you leave it on, there were no hopes of healing it, nor of ſaving the mans life. This indicates am<g ref="char:EOLhyphen"/>putation, and it is ſpeedily to be done, for 'tis no time now for you to pauſe up<g ref="char:EOLhyphen"/>on it; your main deſign is to ſave the mans life; in order to which, two emi<g ref="char:EOLhyphen"/>nent purpaſſes immediately preſent: The one to take of the Limb, for if that ſhould ſtay on, life is not long to be expected,
+<pb n="24" facs="tcp:184664:22"/>
+the other is to ſtop the violence of bleed<g ref="char:EOLhyphen"/>ing; (for in the Blood is the Life) and if that be not done, the man will immedi<g ref="char:EOLhyphen"/>ately dye.</p>
+               <p>This latter purpoſe you are firſt to put in execution (if poſſible) for 'tis ſure the man hath bled too much already, before he could be got down to you; more eſpe<g ref="char:EOLhyphen"/>cially if in a three Deckt Ship, and the man wounded on the upper Deck.</p>
+               <div type="subsection">
+                  <head>Amputation.</head>
+                  <p>Set the man down immediately on your Cheſt, and let your aſſiſtants hold him; and let one take a faſt gripe with his hands above the place you intend to amputate, drawing up the Muſcles with what force he can, and you with large and ſtrong tape make faſt and hard Ligature, to reſtrain the bleeding; fetch it ſeveral turns about, and let it be about two inches above the place you deſign to amputate.</p>
+                  <p>In the mean time let a drachm of Cordi<g ref="char:EOLhyphen"/>al be given the man to keep up his Spirits. If the Operation be on the Leg, let it be about four inches below the Knee; but if in the Thigh or Arm, as low as the wound will permit.</p>
+                  <p>
+                     <pb n="25" facs="tcp:184664:22"/>Together with your Ligature let your aſſiſtant gripe hard, and another hold the end: And you with your diſmembring Knife divide the Fleſh or Muſcles round the Bones (if it be poſſible) at two even ſtrokes.</p>
+                  <p>Youl now hear ſad ſchreeking, but let nothing daunt you, be reſolute in your du<g ref="char:EOLhyphen"/>ty, and incourage your Mates.</p>
+                  <p>The Fleſh divided, let your aſſiſtant draw up the Muſcles as tort as poſſible, and let him that holds the other part do the like, that the Bone may be ſeen, and with your Catling divide the Veſſels be<g ref="char:EOLhyphen"/>tween the bones (if it is below the Elbow or Knee) and remove the perioſteum, that nothing may hinder the ſaw: Then take off the Limb at as few ſtroaks, and as near the upper part as poſſible, and let him that holds the end of the Limb have a care that he breaks not the Bone, before the Saw is quite through. This done, throw it in to your Tub of water, at the ſide of the Platform, till ther's an opportunity to heave it and others over-board.</p>
+                  <p>Some after this make actual Cautry on the ends of the Veſſels, (and indeed it were a good way were a man on ſhore) but by no means do I like fire on a Platform in time of Fight; for I remember in one of the laſt fights we had with the <hi>Holland<g ref="char:EOLhyphen"/>ers,</hi>
+                     <pb n="26" facs="tcp:184664:23"/>
+there came a ſhot in under water, and beat down my Lighter from before me, and battered things on the Platform. And if ſuch a ſhot ſhould have ſtruck a fire pan there it would have hazarded the burning of the Ship. A ſmall pledget of fine tow is fitteſt to be applied to the end of the Bone, and the beſt Practitioners uſe it. If it be above the Elbow, or in the Thigh, it is more proper to touch the Marrow than other things. To the mouths of the great Veſſels you are to apply Buttons armed with your <hi>reſtrictivum Commune,</hi> or (if you fear a violent flowing) with your Potenti<g ref="char:EOLhyphen"/>al Cautry, which commonly is that of <hi>Cal<g ref="char:EOLhyphen"/>canth. rubefactum,</hi> or if you firſt dip your Buttons in the <hi>Aqua ſtiptica Vitriola,</hi> and then arm them, it is a good way. The Buttons applyed, let an aſſiſtant hold them on with his fingers ends. Now here ſome take the Croſs-ſtitch, and ſome neglect it, becauſe if it is taken ſuperficially, it breaks out and doth no good, and if deep, the Muſcles are punctur'd, which cauſeth an addition of pain, if not Convulſion.</p>
+                  <p>For my own part I have often uſed it, and ſometimes have done the work as well without it.</p>
+                  <p>Now let him that gripes force down his hands, that the Muſcles may return over
+<pb n="27" facs="tcp:184664:23"/>
+the end of the bone whilſt the other hold faſt the Buttons to the ends of the Veins; keeping ſtill your Ligature faſt, and do you apply a pledget wet in acetum, and armed with <hi>reſtrictive</hi> to the end of the ſtump; and another wet and armed over that, and ſo large as may reach two inches over the ſtump; and a ſtrong Croſs-bolſter upon that, which your aſſiſtant muſt hold faſt to; but before you bring the edges faſt about, let go your Ligature. And then let your aſſiſtant hale up the Croſs bolſter ſtrongly, and the other force hard with his hand on the applications; and do you with a ſingle Rouler fetch 3 or 4 turns ſomething tort, about the place where the Ligature was. If blood appears, clap an unarm'd button on that place, and ſtrip a wet bladder over that to ſecure the up<g ref="char:EOLhyphen"/>per things from being bloody: Then bring to another Bolſter, and with a long double head Rowler make firm bandage, and be ſure at every turn that comes over the end of the ſtump let your aſſiſtants hand be on it to hold it faſt to, until you have faſtned your Rowler. Then lay the man ſo to paſs, that the ſtump may be higher than the Body, and wrapt warm with a Garment, and a Pillow under it; but be ſure to place him as far off, to the
+<pb n="28" facs="tcp:184664:24"/>
+further part of the Platform, as poſſible; that there may be room for others, and all that you lay after him, let them be laid for advantage; for I have ſometimes had my Platform ſo full of wounded men, that I could not tell how to diſpoſe of more: This done, let him have another Cordial drachm, but have a care of too much, leſt it inflame him, and make his blood more fluid: And have an Eye leſt his Meſmates come with their bottle, and prejudice him with their kindneſs, as I have ſome<g ref="char:EOLhyphen"/>times ſeen; and ſo turn your hand to a<g ref="char:EOLhyphen"/>nother, and be as expedite in all your o<g ref="char:EOLhyphen"/>perations as poſſible.</p>
+                  <p>I have here given you but a touch of this, only to let you know how to behave your ſelf in time of Fight.</p>
+                  <p>Anon I'le teach you to proſecute this cure to the end: And then I'le ſhew you how both to begin and end the curing of all other eminent Wounds, or Accidents that uſually happen either in an ingage<g ref="char:EOLhyphen"/>ment, or at other times at Sea; for if you'l be a Sea-Chirurgeon, ſuch you muſt ex<g ref="char:EOLhyphen"/>pect to meet with, as others have done.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="29" facs="tcp:184664:24"/>
+               <head>
+                  <hi>CHAP. II.</hi> Teacheth what is to be done by the Chi<g ref="char:EOLhyphen"/>rurgeon the next day after the Ingage<g ref="char:EOLhyphen"/>ment.</head>
+               <p>BUT by the way take notice, that it is not fit to open an Amputation under the ſpace of at leaſt three dayes; nor of other great Wounds where there is dan<g ref="char:EOLhyphen"/>ger of an Hemorrhage in leſs than two dayes.</p>
+               <p>The next morning after the Fight, in the firſt place provide Victuals for the wounded men: Let your Pot be boyled with Grewel of Oatmeal, Currants, and Spice; and when 'tis ready, let it be ſweetned with Sugar, and give thereof to each of them, and let them have it twice a day at leaſt: Then conſider what wounds or accidents ſhould be dreſt this ſecond day, which are ſuch as are burnt with powder, ſlight Wounds, and all Bruiſes or Contuſions.</p>
+               <p>Theſe being dreſt: Think of a vulnerary Drink for the wounded; (eſpecially ſuch as are inwardly bruiſed, or have penetra<g ref="char:EOLhyphen"/>ting wounds.) Now if a man were aſhore,
+<pb n="30" facs="tcp:184664:25"/>
+                  <hi>decoctum Traumaticum,</hi> or <hi>Vulnerarium, In<g ref="char:EOLhyphen"/>fuſus Vulnerarius,</hi> or elſe <hi>Spruſe Beer,</hi> would be very excellent: But you are at Sea, and have not theſe things, nor can you poſſib<g ref="char:EOLhyphen"/>ly carry with you ſo many Herbs, Roots, and Seeds as will make them.</p>
+               <q>
+                  <hi>Now, Rec.</hi> Syr. de Symphito ℥<hi>i</hi> Quinteſ<g ref="char:EOLhyphen"/>ſentia Ariſtolochia Fabri <g ref="char:dram">ʒ</g>
+                  <hi>i</hi> in a draught of warm Ale or Beer is very good: But Sanguis Samphiti ℈<hi>i.</hi> Liquor Salis Gemmae. gut <hi>iij</hi> in a Glaſs of Malago or Alicant is better, (if not the beſt in the World. Sperm Caeti ℈<hi>ij.</hi> Magiſterium Salis gr. <hi>vi.</hi> in Oleo amygdalarum Dulc. ſweetned with fine Sugar, is a good inward Vulnerary.</q>
+               <p>Theſe are things that you can carry to Sea with you, and have ready to give a man at an inſtant. 'Tis true, many of theſe things are very rich and coſtly; and 'tis like you expected me to adviſe you to things of good vertue, and yet of leſs coſt: 'Tis true they are ſo: but then their Do<g ref="char:EOLhyphen"/>ſes are not great; and conſider that Life is of more worth than the beſt of them; be<g ref="char:EOLhyphen"/>ſides, if you know any thing more vulgar and of leſs value, and yet powerful as to the intention, you may uſe it, I impoſe
+<pb n="31" facs="tcp:184664:25"/>
+not on you; you are at your liberty; on<g ref="char:EOLhyphen"/>ly pardon me if I adviſe you to the beſt of Medicines, (although never ſo coſtly.) And indeed in this caſe Balm of <hi>Gilead</hi> (if you had it) were not too good, I know it to be their only Medicine in <hi>Syria, Egypt,</hi> and <hi>Paleſtine:</hi> They take half a ſpoonful of it at a time, the Chriſtians in a Glaſs of Wine, and the Mahometans in their Sherbet, when any of them is bruiſed, or greatly wounded. And the meaner ſort boyl the fruit of the Tree from whence this comes, and drink the Decoction when they are hurt. It ſweats out of the Fruit of the Cedar, and is not much unlike thin Tur<g ref="char:EOLhyphen"/>pentine both in ſmell, ſight, and taſte.</p>
+               <p>A Merchant in <hi>Tripoly</hi> in <hi>Syria,</hi> near <hi>Mount Lebanon,</hi> ſhewed me, and gave me both of the Balm, and of the Fruit, when as it was new cut, and brought down from the Mountain at what time the Fruit was ſweating out its Balm.</p>
+               <p>The Fruit is not much unlike the Spruce buds that we ſee in <hi>New found Land,</hi> which ſweat out ſuch another ſubſtance.</p>
+               <p>This day alſo you muſt be providing Cradles for the wounded; you muſt ſpeak to the Commander to order the Carpen<g ref="char:EOLhyphen"/>ter to make them. And in the night time let your Mates take turns, to watch
+<pb n="32" facs="tcp:184664:26"/>
+by them, leſt any miſcarriage ſhould be; but let there be quietneſs, and as little di<g ref="char:EOLhyphen"/>ſturbance as poſſible, for they will have many Viſitors.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <p>THE ſecond day after the fight, beſides your giving men their vulnerary Drink, and dreſſing the burns and bruſes, and ſlight wounds: See which of the others are coſtive, or inclining to be Feveriſh, and give to ſuch an opening, and emolli<g ref="char:EOLhyphen"/>ent Clyſter to prevent ill things that might enſue.</p>
+               <q>℞ Decoctum Com. per Cliſt. ℥<hi>viij,</hi> Electa Len. ℥<hi>ij</hi> f. enema.</q>
+               <p>This is fitteſt for your occaſion; like<g ref="char:EOLhyphen"/>wiſe this day dreſs all Wounds that you can without fear of their bleeding afreſh, which I'le inſtruct you in anon; but to comply with my promiſed Method, I'le firſt ſhew you to proſecute the cure of the Amputated Wound, and in it of all other amputations.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="33" facs="tcp:184664:26"/>
+               <head>
+                  <hi>CHAP. IV.</hi> How to proſecute the Cure of the Ampu<g ref="char:EOLhyphen"/>tated Wound.</head>
+               <p>IMagin the third day after the ingage<g ref="char:EOLhyphen"/>ment is now come, you muſt think of opening your Amputations and moſt dan<g ref="char:EOLhyphen"/>gerous wounds: Have your <hi>Reſtringent Major,</hi> and your <hi>Digeſtivum Commune</hi> rea<g ref="char:EOLhyphen"/>dy by you. You will need no fomenta<g ref="char:EOLhyphen"/>tion this dreſſing, for that by its heat might cauſe freſh bleeding.</p>
+               <q>
+                  <hi>Your</hi> Digeſtivum Com. <hi>make thus,</hi> ℞ Terebenth. Mel Angl. Ol. Catulorum Vitel. ovor. ana. pts. equal. Miſce.</q>
+               <p>Theſe mixed, make an excellent good digeſtive, which is commonly uſed. Your reſtrictives that you applyed at firſt, will now ſtick very hard; therefore you muſt have great care and patience in taking them off. When all's off, apply to the ends of the Veſſels ſome of your Reſtrictive Pouder whether they bleed or not; and to the end of the Bone a little Pouder of Myrrh on ſmall pledgits of Lint or fine
+<pb n="34" facs="tcp:184664:27"/>
+Tow; and over theſe apply your dige<g ref="char:EOLhyphen"/>ſtive on pledgits all over the end of the ſtump; then imbrocate the part about with Oyl of Roſes, or Hypericon, and ſo place fit Bolſters, and roul it up for this time.</p>
+               <p>Now this ſecond dreſſing need not to be taken off under two dayes, unleſs ſome accident happen. When you dreſs it next, all danger of bleeding will be over, and you may prepare your fomentation to help on digeſtion, and to recollect the diſſipated Spirits. For you will find a diſcolourati<g ref="char:EOLhyphen"/>on about the end of the part, but fear not that; for when by the <hi>Fomentation,</hi> and <hi>Digeſtivum Commune,</hi> Digeſtion is made, that blackneſs will vaniſh. And when you ſee the end of the part ſwell much, 'tis ſo much the better; for the Spirits are retur<g ref="char:EOLhyphen"/>ned unto it, and there's leſs fear of Mor<g ref="char:EOLhyphen"/>tification.</p>
+               <p>Your Fomentation uſually is,
+<q>℞ Herbae Hypericon, Centariae, Abſynth. and other Fomentation Hearbs, which you alwayes have ready by you in your Drug Cheſt; decoct two or three hand<g ref="char:EOLhyphen"/>fuls of theſe in Water, and to the ſtrain<g ref="char:EOLhyphen"/>ed Liquor add a good quantity of Spirit
+<pb n="35" facs="tcp:184664:27"/>
+of Vinum Commune, (<hi>aliàs</hi> Brandy) to make it more ſtrong and lively.</q>
+               </p>
+               <p>Have Stuphs of Cotton, or Flannel to wring out of this Liquor, and apply them hot one after one, for a good while toge<g ref="char:EOLhyphen"/>ther. Then apply to the end of the bone a ſmall pledgit dipt in tincture of Myrrh hot, and likewiſe bathe the end of the ſtump therewith, and ſo lay to your <hi>Di<g ref="char:EOLhyphen"/>geſtivum Commune</hi> on pledgits of fine Tow or Lint. Let your <hi>Digeſtive</hi> be moderately warm. When you have digeſted the Wound ſufficiently, and there is no fur<g ref="char:EOLhyphen"/>ther danger of Gangreen, then leave off the Common Digeſtive, but keep ſtill to your Stuphs and Tincture; for thoſe will powerfully forward the healing, to<g ref="char:EOLhyphen"/>gether with the Vulnerary Drink that I directed in the Second Chapter; and have a care that he drinks not ſtrong Drink to inflame.</p>
+               <p>Now <hi>Baſiticon Minus,</hi> and <hi>Linamentum Arcei</hi> mixt and applyed on your Pledgits warm to the Wound is a very proper Me<g ref="char:EOLhyphen"/>dicine, and commonly uſed; for this both digeſts and heals: Only let not theſe touch the end of the Bone, nor yet no Unctions, nor Corroſive thing whatever; but let your ſmall Pledgit dipt in your Tincture
+<pb n="36" facs="tcp:184664:28"/>
+of Myrrh, be ſtill next the Bone. For theſe Unctious things will ſuffer the moiſt Humour to fall on the Bone, and that is it that rots and putrifies the Bone, which the Tincture of Myrrh, or Powder of Myrrh doth prevent. And if the Bone ſhould be foul, by this or the Air, or o<g ref="char:EOLhyphen"/>ther accident, 'tis but applying your <hi>pul<g ref="char:EOLhyphen"/>vis Euphorbii.</hi> next to the Bone under your other Balſams, and it will delicately ſcale it. Two or three of theſe dreſſings will bring off the great ſtuff, and you'l have your Wound in a hopeful way of Cur<g ref="char:EOLhyphen"/>ing.</p>
+               <p>Then you may leave of your Unctious <hi>medic.</hi> and apply only <hi>Balſamum Terebin<g ref="char:EOLhyphen"/>thine</hi> or <hi>unguentum Tereb.</hi> which will cer<g ref="char:EOLhyphen"/>tainly do your work, and heal the Wound as faſt as you would have it. And if you took the Croſs Stick, you may now cut it and pick it out.</p>
+               <p>The later of theſe although 'tis called <hi>unguent. Tereb.</hi> yet it has no Oylous or Unctious ingredient in it. 'Tis thus made.</p>
+               <q>
+                  <hi>Rec.</hi> Tereb. <hi>lb ij,</hi> vitel. ovor. <hi>No. vj.</hi> Ma<g ref="char:EOLhyphen"/>ſtich. Myrrh. Olibanum ana ℥<hi>j</hi> f. ung.</q>
+               <p>That is admirable good for healing,
+<pb n="37" facs="tcp:184664:28"/>
+and the Balſam is not inferior, for theſe may be applyed to the bone it ſelf.</p>
+               <p>After the Eight at <hi>Buda,</hi> when the Emperor routed the <hi>Turks,</hi> I ſaw in <hi>Con<g ref="char:EOLhyphen"/>ſtantinople</hi> a <hi>Turk</hi> that had been wounded there by a brace of Bullets that had been ſhot through his Arm extreamly ſhatter<g ref="char:EOLhyphen"/>ing both bones <hi>
+                     <g ref="char:V">Ʋ</g>lna</hi> and <hi>Radius,</hi> and this wound after the bloud had been ſtanch'd, was dreſt only with <hi>alb. ovorum,</hi> and <hi>Tereb. Cypr. miſce;</hi> and for all the ſhatter'd bones were not taken out, and it was now two months ſince the Fight, yet the bones were not in the leaſt foul, nor was there any ill ſcent, but extraordinary good and laudable digeſtion, and the wound inclin<g ref="char:EOLhyphen"/>ing to heal, but too faſt over the looſe bones; and (when at the requeſt of a Merchant) I had laid it open, and taken out the ſplintred oſſicles, the <hi>Turk</hi> healed it himſelf with that very medicine; it was almoſt cured before we parted thence, which was about a fortnight after I had laid it open. This I inſert only to confirm your confidence in the <hi>unguent.</hi> or <hi>balſam of Terebenth.</hi> which muſt needs be more effi<g ref="char:EOLhyphen"/>cacious than this of the <hi>Turks</hi> which I have ſpoke of, conſidering the ingredients in them added to theſe. When you have healed it ſo, as you would have it to cica<g ref="char:EOLhyphen"/>trize,
+<pb n="38" facs="tcp:184664:29"/>
+then you may at firſt add to your balſam, <hi>deſiccatrum rubrum,</hi> or <hi>diapom<g ref="char:EOLhyphen"/>pholigos;</hi> and at laſt uſe them alone. For theſe will dry and skin it to your ſatis<g ref="char:EOLhyphen"/>faction. And mind this, that if in the time of Cure the Patient ſhould at any time turn Feveriſh, beſides adminiſtring of Clyſters, you muſt open a Vein.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> How to Cure all dangerous Wounds of the Joynts.</head>
+               <p>WE'le ſuppoſe before you have quite done with your diſmembred man, there's brought down another, wounded in the Knee, with a Musket Bullet. The Veins, Arteries; and Nerves are wound<g ref="char:EOLhyphen"/>ed, and the Cartilages and Bones ſhatter<g ref="char:EOLhyphen"/>ed, and the Bullet ſticking in. This is a very dangerous Wound, with intole<g ref="char:EOLhyphen"/>rable pain, and a violent efflux of Blood. Here two deſigns immediately offer; the one to extract the ſhot and ſhattered Bones, and the other to ſtop the Blood.</p>
+               <p>Here the latter is firſt to be executed leaſt the man bleed to Death whilſt you
+<pb n="39" facs="tcp:184664:29"/>
+are doing the other. Your way is to make ſtrong Ligature about the Thigh, ſo that the blood ſhall not deſcend (at leaſtwiſe in any great quantity). If ſuch a Wound ſhould happen in the joint of the Hip, where ſuch Ligation cannot be made, it were much more dangerous.</p>
+               <p>When you have made your Ligature as hard as if it were for diſmembering, then with your probe feel for the ſhot, and with your <hi>Forceps</hi> or <hi>Terebellum</hi> extract it. But if it is near through on the further ſide, Clap a flat pointed ſtrong Probe to it, and with your inciſion Knife cut it out, thruſting it with your Probe; but be ten<g ref="char:EOLhyphen"/>der of the Veſſels, or Nerves, and get the ſplinter'd Bones out in like manner; for if you ſhould not do this now whilſt the man is hot, (which muſt of neceſſity be done) you'l but very ill do it here<g ref="char:EOLhyphen"/>after. If there be ſome ſmall extramo<g ref="char:EOLhyphen"/>ſities that ſhould eſcape you now, 'tis no great matter, you need not ſpend over much time (which now is precious) they will come to hand at another dreſ<g ref="char:EOLhyphen"/>ſing. And if it were a ſhot that ſhould ſtay in, if it were a Muſculous part, provided the ſhot were round &amp; not chaw'd nor jag'd, it would not be at all the more dangerous. For I have known when ſuch a Bullet could not
+<pb n="40" facs="tcp:184664:30"/>
+be got out, that it hath of it ſelf by its own weight made way lower and lower, to a depending part, where it hath ap<g ref="char:EOLhyphen"/>peared through the skin, and there hath been cut out, and hath healed after it all along as it hath deſcended; this happen<g ref="char:EOLhyphen"/>ed to one of our Seamen, when we had Wars with <hi>Algier,</hi> and fought before <hi>Te<g ref="char:EOLhyphen"/>dellis</hi> in <hi>Barbary.</hi>
+               </p>
+               <p>This done, dip your <hi>Dorcells</hi> in your <hi>aqua ſtiptica,</hi> ſqueeze them, then arm them with your Reſtringent, and fill the Wound with them; but let no hard <hi>Tents</hi> be ap<g ref="char:EOLhyphen"/>plyed among the Joynts, neither here nor in any other. Apply good Bolſters and make good Bandage, and ſo give this a Cordial drachm, and lay him by the other; for this is all what can be done at this time, and this wound ought not to be opened in leſs time than two dayes, un<g ref="char:EOLhyphen"/>leſs accidents inforce you.</p>
+               <p>The next dreſſing be cautious how you apply your Fomentation, leaſt it ſhould cauſe freſh bleeding; but let your dige<g ref="char:EOLhyphen"/>ſtive have powder of <hi>Saffron</hi> mixt with it, and let it be apply'd on <hi>Dorcells</hi> into the Wound, then will your digeſtive be not only ſuppurative, but alſo anodine, which is an intention which this Wound ex<g ref="char:EOLhyphen"/>treamly
+<pb n="41" facs="tcp:184664:30"/>
+requires, as alſo prevention of other accidents; as Convulſion of the Nerves, Contraction of the Muſcles and Fever.</p>
+               <p>Now as your digeſtive it in the Wounds ſo all about the Wound let your <hi>Emplaſt. diaſulphuris Rulandi</hi> be applied, for that is the moſt excellent that is yet known for all Wounds of the Joynts, and Nervous parts.</p>
+               <p>And let there be a ſtrong defenſive about the Thigh.</p>
+               <q>℞ Your pulv. reſtr. minor with acetum; alb. ovor. and oleum Roſarum, miſce.</q>
+               <p>This is a good defenſive; and mind this, That when you apply your digeſtive into the Wound, let either the Balſam or Un<g ref="char:EOLhyphen"/>guent of <hi>Terebinthina</hi> be applyed next the Bone. This manner of Dreſſing ſhould be uſed till digeſtion is effected. And as ſoon as there is no danger of Bleeding, let your hot and comfortable Fomentation be uſed, and let your Wound Drink be given inwardly; and let his body be kept open by Clyſters as is taught in the amputated Wound.</p>
+               <p>
+                  <pb n="42" facs="tcp:184664:31"/>Your Wound Drink is,
+<q>℞ Pulv. ad Caſum, <g ref="char:dram">ʒ</g>
+                     <hi>jſs. and ſweat on it, either</hi> Syr. de ſymphito ℥<hi>ij,</hi> or San<g ref="char:EOLhyphen"/>guis ſymphiti <hi>ſsj,</hi> or Quint. ariſtoloch fabri <g ref="char:dram">ʒ</g>
+                     <hi>ij.</hi>
+                  </q>
+               </p>
+               <p>Any of the three given in a Glaſs of Beer, Ale or Wine, firſt in the Morning, and laſt at Night, either alone or mixt together, and Doſed proportionably, no<g ref="char:EOLhyphen"/>thing under the Heavens, is (unleſs Balm of <hi>Gilead</hi>) more powerful as to this in<g ref="char:EOLhyphen"/>tention. When you ſee it begin to ſuppu<g ref="char:EOLhyphen"/>rate, then apply <hi>Balſamum Sulphuris,</hi> or <hi>Balſaminae</hi> to the Nervous parts, for thoſe are the chief of Medicines in that behalf, but let either the <hi>Balſam</hi> or <hi>unguent of Te<g ref="char:EOLhyphen"/>reb.</hi> be next, or among the Bones; and let every thing be applyed hot and comforta<g ref="char:EOLhyphen"/>ble. And let warm <hi>Tinctura Myrrhae</hi> be your Lotion, and the <hi>Emplaſtr. diaſulphuris Rulandi</hi> be ſtill applyed warm and cheriſh<g ref="char:EOLhyphen"/>ing all about the Joynt and Part.</p>
+               <p>This (I am confirm'd) you'l find to be an excellent method of curing Wounds of the Joynts and Nervous parts.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="43" facs="tcp:184664:31"/>
+               <head>
+                  <hi>CHAP. VI.</hi> How to Cure a Compound Fracture, and Diſlocation together.</head>
+               <p>BY this time let us imagine another is lower'd down to you, who being up aloft knotting the Rigging, a ſhot came and carried the Rope from under his Feet that he ſtood upon, and he fell down upon the Deck; and diſlocated his Shoulder-Bone, and fractured the <hi>Os Brachium,</hi> ſo that the end of one part of the Bone comes through the Fleſh and Skin over the other.</p>
+               <p>This is a notable Accident, and 'tis impoſſible but that this man muſt be much bruiſed inwardly by the fall alſo.</p>
+               <p>Your way is to let his Clothes be imme<g ref="char:EOLhyphen"/>diately ript off, and ſeeing how the Caſe ſtands, give him immediately a Cordial dram, to revive his Spirits; and then make way to reduce the diſlocated Joynt; after embrocate about it with <hi>Oleum Roſarum,</hi> and clap about it a good Warm Searcloth of <hi>Oxycroceum.</hi> Let there be a good Bolſter placed under the Arm-pit, and firm and decent rouling.</p>
+               <p>Next go in hand with your compound
+<pb n="44" facs="tcp:184664:32"/>
+Fracture, which will be the more difficult to reduce, becauſe of the new Located Joint. Now all diſlocations and fractures are reduced either by a ſlight and ſudden Motion, or by a more ſtrong Extenſion. The joynt of the Shoulder might ('tis like) be done by the former; but this kind of Fracture will require the latter. There muſt be a powerful extenſion of this Fracture, becauſe the Ends of the Bones are one over the other. Therefore he that holds the upper part, had need of a good Machine, or Bandage to hold faſt by, againſt him that extends the other way, that he may ſuccour the Shoulder-joynt.</p>
+               <p>'Tis like too that the Wound may not be wide enough to let the head of the Bone eaſily return, then you muſt make inciſion, but have a care of the Veſſels.</p>
+               <p>When the ends of the Bones are evenly placed, embrocate about the part with <hi>Oleum Roſar.</hi> and into the Wound apply a ſmall dorcel of <hi>Tincture of Myrrh</hi> next the Bone, and on that your digeſtive on ano<g ref="char:EOLhyphen"/>ther dorcel; and over all a large Reſtri<g ref="char:EOLhyphen"/>ctive of
+<q>℞ Bolus verus, Sang. Drac. Maſtich, and Oliban. ana parts equal, alb. Ovor. &amp; ace<g ref="char:EOLhyphen"/>tum vini, q.ſ. miſce, f. Cataplaſm.</q>
+                  <pb n="45" facs="tcp:184664:32"/>
+Let it be ſpread thick on a double cloth, and applyed all about, except on the wound; but on the wound leave a ſpare place cut out, that it may be come at to be dreſt: Place on this another bolſter wrung out of <hi>Acetum,</hi> but a ſpare place likewiſe in it, that the wound may be come at; then a ſoft Rouler to come ſeveral turns about it, and every valve as it comes over the wound cut; not to the ſides (becauſe they may hold faſt) but in the middle; on this place a ſmall, but thick bolſter on the wound, that may anſwer the wanting valves. This done, make the ſmalleſt part equal to the biggeſt, with ſoft bolſters; ſo place there<g ref="char:EOLhyphen"/>on broad and hollow ſplints oppoſite to the wound, and on each ſide it, but not on it; the which let be decently bound on with Tape from joynt to joynt, yet not to touch the Joynt ſo as to hurt it; nor yet ſo hard as to cauſe ill accidents to the wound and fracture. So let his Clothes be put about him, and open a vein in the other Arm, becauſe of his inward contuſi<g ref="char:EOLhyphen"/>on; that it may hinder the coagulation of the blood. Lay this by the reſt for this time, and when you ſee occaſion, give him of the wound drink as you do the others. You muſt note, if this had been but a ſimple fracture, you muſt on the ſingle
+<pb n="22" facs="tcp:184664:33"/>
+Rouler, and over all have made uſe of two Roulers more; the one muſt have be<g ref="char:EOLhyphen"/>gun with two or three turns about the fracture, and you muſt then have rouled upwards, with the valves ſomething cloſe, to anticipate a defluxion of humours, and the other after two or three turns about the fracture muſt have been lead down<g ref="char:EOLhyphen"/>wards with the valves more open, and af<g ref="char:EOLhyphen"/>ter turn'd a croſs at the lower Joynt, and ſo rouled up again to the other; there to end; and ſee the Arm made even with Bol<g ref="char:EOLhyphen"/>ſters, and the Splints applyed, this ſhould not be removed under 6 or 7 dayes, unleſs accidents urged; and if heat or pain ſhould, then it were but undoing it carefully, and bathing it with warm water; and then ap<g ref="char:EOLhyphen"/>lying an <hi>Oxicrocium</hi> Sear-cloth about it, and ſo roul it up again, and let it remain: But this Compound Fracture admits of no ſuch rouling; but there muſt be much more care and trouble about it.</p>
+               <p>The next dreſſing of your Compound wound; which muſt not be under two (if not three) dayes time: You muſt take off all to the ſingle Rouler, but let it, and all under it remain longer, (unleſs ſome ac<g ref="char:EOLhyphen"/>cidents have hapned) Take off the ſmall bolſter of the wound, and take out the Dorcels: Let all be done with great care
+<pb n="23" facs="tcp:184664:33"/>
+and gentleneſs, leaſt you diſplace what you before reduced. Cleanſe the wound with hot Tincture of <hi>Myrrhae,</hi> then drop into it hot Balſam of <hi>Terebenth,</hi> and apply dor<g ref="char:EOLhyphen"/>cels into it dipt in the ſame; on theſe a bolſter, and ſo make it up again as it was before. Uſe this manner of dreſſing till accidents, or time cauſe you to take off the reſtrictive</p>
+               <p>When you take it off, bathe it, and ſtuph it well with your hot Fomentation, but have a care of diſplacing the Fracture; then apply an <hi>Oxicrocium</hi> Plaſter warm all over, only on the wound let it be cut as the reſtrictive before was; and this will help on a Callous, and the Bone to ce<g ref="char:EOLhyphen"/>ment, and is an approved thing for Fra<g ref="char:EOLhyphen"/>ctures, and very Anodine; then let it be made up in every reſpect as it was before, and continue this manner of dreſſing to the end: And when you can with ſafety, you may take off the Sear-cloth from the Shoulder, and bathe and ſtuph that well and hot to ſtrengthen it, and ſo apply ano<g ref="char:EOLhyphen"/>ther <hi>Oxicrocium</hi> Sear-cloth to it again.</p>
+               <p>Be ſure in ſuch cures as theſe, to keep a cool and open Body, and breathe a Vein, not only once, but oftner.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="48" facs="tcp:184664:34"/>
+               <head>
+                  <hi>CHAP. VII.</hi> How to cure a wound of the Head, with a Fracture of the Scul.</head>
+               <p>ANother comes down with his Head wounded, and Scul fractured, which often happens in time of Fight, by a ſmall Shot or Splinter: I met with ſeveral ſuch in the laſt <hi>Holland</hi> Wars: Some the <hi>Cutis Muſcula,</hi> not only much wounded, but the Scul fractured, ſo as the <hi>Dura mater</hi> hath been bare. Others again have had but a ſlight wound of the outer part, but the Scul hath had a ſmall Fracture or Fiſſure; and this latter is worſer than the former.</p>
+               <p>The former you ſee fairly, and by dila<g ref="char:EOLhyphen"/>ting a little with your Inciſion Knife of the Scalp wider than the Wound, you ea<g ref="char:EOLhyphen"/>ſily take out any looſe Splinters that might prick the Meninges:</p>
+               <p>But the latter, When you have laid bare the Scul, (the which it is not ſafe to neg<g ref="char:EOLhyphen"/>lect, upon the leaſt ſymptoms) you will ſcarcely ſee at this time if there be a Fra<g ref="char:EOLhyphen"/>cture or no: For indeed ſome have not immediately their Speech taken away, nor yet Vomit, nor Bleed at the Ears or Mouth,
+<pb n="49" facs="tcp:184664:34"/>
+nor (whilſt they are hot) have ſuch ſigns of a Fracture as other ſome have.</p>
+               <p>However the beſt way is, If you have but any ſuſpition, to lay the Bone bare, and the worſt that can fall by that, is but healing it again, if there be not a Fracture; but if there ſhould be one, the neglect thereof were dangerous.</p>
+               <p>Shave the Head (at leaſt waies a conve<g ref="char:EOLhyphen"/>nient breadth about the wound) that no<g ref="char:EOLhyphen"/>thing may hinder your Applications, but that you may decently dreſs it: Whether it is the greater or leſſer Fracture, if it hath done bleeding, dreſs it with hot Tin<g ref="char:EOLhyphen"/>cture of <hi>Myrrhae</hi> on Dorcels, eſpecially next the bone; but if it bleeds much, apply on the Dorſel of Tincture your, Reſtrictive on other Dorſels, and over all, when you have imbrocated all about with Oyl of Ro<g ref="char:EOLhyphen"/>ſes, or Hypericon; apply a thick double Bolſter, and ſo make good bandage for the preſent, and let him not drink Brandy, nor other liquor that will inflame.</p>
+               <p>The next dreſſing, whether it be the firſt or ſecond day after this, have your Stuphs ready to wring out of hot Spirit of Wine, and apply them.</p>
+               <p>You'l find now not only by Symptoms, but you will likewiſe ſee (if you look dili<g ref="char:EOLhyphen"/>gently,) whether there is a Fracture or
+<pb n="50" facs="tcp:184664:35"/>
+no; if there be, and the man hath grie<g ref="char:EOLhyphen"/>vous pain of his Head, and redneſs of Eyes, Vomits, ſpits Blood, 'tis a ſign that the brain is concuſſed, and the contuſed blood would have vent, and hath not by reaſon of the ſmallneſs of the Fracture.</p>
+               <p>To do this;</p>
+               <p>Having with your Sculpra removed the <hi>Pericranium</hi> clearly, apply the <hi>Traphine,</hi> Let it be, (if it can) ſomething beneath the Fracture, that the blood may be bet<g ref="char:EOLhyphen"/>ter evacuated.</p>
+               <p>When you are through the firſt Table, take out your Pin, and then work gently through the ſecond; but with a ſteady hand, and great care, leſt the teeth of the <hi>Tra<g ref="char:EOLhyphen"/>phine</hi> ſhould tear the <hi>Dura Mater.</hi> When you are almoſt through, try if the ſmall piece in the hallow of the <hi>Traphine</hi> be looſe, if it is, then the Teeth are juſt through: Now have a care of the Meninges, and take out the piece; but mind that you ap<g ref="char:EOLhyphen"/>ply not your <hi>Traphine</hi> on the temporal Bones, Sutures, or Sinciput; and with your <hi>Lenticula</hi> ſmooth the Perforation, and when with fine Lint or Tow you have cleanſed the work, place a ſmooth lawn Cylendula, dipt in warm Tincture of Myrrh between the <hi>Dura Mater,</hi> and the other applications. Or this, Let ſmall fine
+<pb n="51" facs="tcp:184664:35"/>
+Dorcels be dipt in the ſame Tincture, and applyed, filling the wound of the Bone therewith. But to the reſt of the wound on that, <hi>Balſamum Terebinthinae</hi> is the fitteſt Medicine, let it be applyed warm on Dor<g ref="char:EOLhyphen"/>ſels, and on it, and over all the head, when it hath been imbrocated with warm Oyl of Roſes, or Hypericon, let a Plaiſter of Paracelſus, or Betonica be warm ap<g ref="char:EOLhyphen"/>plyed, then clap a good double Bolſter over the wound, with a plate, or broad piece of ſilver in it, to hinder that the <hi>Du<g ref="char:EOLhyphen"/>ra Mater</hi> ſwell not out of the Scull, (for it will be apt to Tumifie:) Let there be a warm double cloth about all the head, and with a double head rouler make ſmooth and decent head rouling; and let him be laid as free from noiſe as poſſible, which is very hard to do in a ſhip. The ſame manner of dreſſing, (the <hi>Traphine</hi> only ex<g ref="char:EOLhyphen"/>cepted) is to be uſed in the greater fracture: If there be ſome aſperities and unevenneſs in the edges of the bone, be cautious how you uſe your capital Inſtrument (as Raſpi<g ref="char:EOLhyphen"/>tory, File, Saw, or the like) with them, and great care you may do good; but with this method of dreſſing, as I directed, you'l find the bone to exfoliate it ſelf to your ſatisfaction in a little time.</p>
+               <p>
+                  <pb n="52" facs="tcp:184664:36"/>When the Brain and Meninges are well, and the fiſſure Cements with a Callous, and the perforation, or great Fracture do heal up with a ſubſtance, then you may leave off the Cylendula, and after waſhing the Wound with your Tincture, apply the Balſam only into it, or at leaſt <hi>Liniment arcei,</hi> and ſo the reſt as before: But mind in this, and all ſuch wounds to open a Vein often, and keep the Body open by Clyſters, and let your wound drink be given him; either of the three Medicines in the laſt Chap. or <hi>Pulv. ad Caſum:</hi> 
+                  <g ref="char:dram">ʒ</g>i ſſ. at a time in Beer, Ale, or Wine, either alone, or mixt with <hi>Syr. Myrtles,</hi> cauſing the Patient to ſweat upon it.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>
+                  <hi>CHAP. VIII.</hi> How to Cure Wounds of the Abdomen and Ruptures.</head>
+               <p>ANother by a Splinter hath the rim of his belly dilacerated, inſomuch as that the <hi>Omentum appears,</hi> and the wound is large. This is a dangerous Wound alſo: Here you muſt immediately make firm
+<pb n="53" facs="tcp:184664:36"/>
+ſtitching, (and the ſame you muſt do if it were any deep inciſed Wound.) Let it be with a delicate ſlender Needle, not too burly, arm'd with ſtrong double ſilk, drawn through your Paracelſus, or other plaiſter, as if it were Wax. Let not your ſtitches be too cloſe, but that there may be room for the blood or matter to come forth, eſpecially in the depending part: This done, foment it hot with common Spirit of Wine, and then having ſome of your <hi>Reſtrictive</hi> mixt with Oyl of Mirtles, apply it on a double cloth, and ſo make good rouling, giving him a Cordial, and lay him for preſent by the others; and ſee you give him of the Vulnerary drink, ei<g ref="char:EOLhyphen"/>ther of the <hi>Symphitum;</hi> or <hi>Ariſtolach,</hi> or <hi>Pulvis ad Caſum</hi> mentioned in the laſt Chap<g ref="char:EOLhyphen"/>ter; and now if <hi>Liquor Salis gemae, gut.</hi> iij. <hi>or</hi> iiij. be added in the drink, it will be much the better; for it is a great ſecret in wounds and Ruptures of the Belly. When you dreſs it again, be ſure you bathe and ſtuph it well and hot; firſt with your fo<g ref="char:EOLhyphen"/>mentation, and then with <hi>Liquor ſeu Balſa<g ref="char:EOLhyphen"/>mum ſaelis gemae,</hi> and Tincture of <hi>Myrrh.</hi> Now to digeſt this wound, as alſo to heal and preſerve it from gangrene, uſe <hi>Balſa<g ref="char:EOLhyphen"/>mum Vulnerarium Salmonis;</hi> (or <hi>Balſammae,</hi> with oyl of Wax:) or <hi>Balſamum Hiſpani<g ref="char:EOLhyphen"/>cum;</hi>
+                  <pb n="54" facs="tcp:184664:37"/>
+let it be laid on thick, and hot on Dorcels; and let <hi>Emplaſtrum diaſulphuris rulandi,</hi> or Paracelſus, or <hi>ad herniam Schrod.</hi> be applyed hot and large over it, to com<g ref="char:EOLhyphen"/>fort the whole Abdomen; and all the dreſſings following ſtuph it well with hot Tincture of <hi>Myrrhe,</hi> for that is a ſoveraign Medicine. See that his body is kept ſolu<g ref="char:EOLhyphen"/>ble with Clyſters of decoct <hi>Com. pro Clyſt. Cum Electo Len.</hi> and let him blood, if any thing of a Fever appears.</p>
+               <p>Were there a Rupture without a Wound by lifting of a Gun, or other weight: Then the place ought to be ſtuft well with your vulnerary fomentation, and then with <hi>Balſamum ſalis Gemae,</hi> then <hi>Emplaſtrum ad herniam Schroderi</hi> malax'd with a little oyl of Wax, and ſo good bolſter and rouling</p>
+               <p>If the Caul ſhould fall into the Scrotum, together with this, there ſhould be a Truſs, which together with the Rupture drink of <hi>Sang. Symp.</hi> ℈j and iij or iiij drops of <hi>Li<g ref="char:EOLhyphen"/>quor ſalis Gemae,</hi> in Ale, or Wine, or the others.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="55" facs="tcp:184664:37"/>
+               <head>
+                  <hi>CHAP. IX.</hi> How to Cure a penetrating Wound of the Breaſt, and Ribbs, or Back.</head>
+               <p>ANother in bording of the Enemy has a Pike run in at his Breaſt, and goes ſlanting among his Ribs, but miſſeth the Vitals: This is another dangerous wound.</p>
+               <p>Firſt give the man a Cordial to revive his Spirits; then having ſearched gently which way the wound goeth, dip a ſmall tent in <hi>Aqua ſtiptica Vitrioli,</hi> and the glare of an Egg beaten together, this will ſtop the bleeding powerfully: Have great care leſt your Tent ſhould touch the Vitals, and let it be but ſlender, a bolſter ſqueezed out of the ſame Liquor, and applyed: This wound muſt be kept open by all means, otherwiſe it will quickly heal outwardly, and there will be an Empyema inwardly; and when you dreſs it next, waſh it with Tincture of <hi>Myrrhae,</hi> and <hi>quint. ariſtoloch. fabri,</hi> with a Syringe, but let the Patient be placed ſo, as the wound may be loweſt, that what is ſyringed into it; as alſo the matter may come forth of it, and let him lye ſo in his Cabbin or Cradle. Let the
+<pb n="56" facs="tcp:184664:38"/>
+Tents be armed with <hi>Balſum Vulnerum ſal<g ref="char:EOLhyphen"/>mon,</hi> anoint all the region of the breaſt, with oyl of hypericon, and apply all over a good warm Emplaſter of Paracelſi: This is the right way to digeſt and heal this kind of wound; but mind if it runs much matter, and yet offers to heal too faſt outwardly: Then keep it open whatever you do, until the bottom is firſt well healed. Here the wound drink muſt be obſerved, Clyſters likewiſe, and Phlebotomy, for in all pene<g ref="char:EOLhyphen"/>trating Wounds and bruiſes, I expect the inward vulneraries to do as much towards the cure, as the external applications.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>
+                  <hi>CHAP. X.</hi> How to Cure a Wound by a ſmall ſhot, through a Fleſhie, or Muſculous part.</head>
+               <p>IF the Bullet is not through, yet almoſt through, you are taught how to cut it out in the Fifth Chapter, or elſe how to extract it. This I look upon as an ordinary Wound, although never ſo deep: I'le imagine the ſhot went in through the thick of the Thigh, a little below the Groyne,
+<pb n="57" facs="tcp:184664:38"/>
+and out (or cut out) in the hinder part of the hip. You are firſt to ſtop the Blood, Take a cupple of Tents dipt in <hi>Aqua ſtip<g ref="char:EOLhyphen"/>tica,</hi> and then rouled in your reſtringent Pouder, and put one in at the one Ori<g ref="char:EOLhyphen"/>fice, and the other at the other; and let them be ſo long, as almoſt to meet, but not quite; and if but one Tent, let it not be ſo long as the wound is deep, and as the wound heals, make your Tent ſhorter by degrees, and apply about the Thigh your <hi>Reſtrictive Communis,</hi> mentioned in the Fifth Chapter, or <hi>Diapalma Malaxed,</hi> with oyl of Roſes. When you dreſs this wound next, uſe your Common Digeſtive, or your Tents; only ſtuph it well with your fo<g ref="char:EOLhyphen"/>mentation, and let <hi>Tinctura Myrrhae</hi> be your lotion, which inject with your Sy<g ref="char:EOLhyphen"/>ringe. When there is good Digeſtion, then <hi>Baſilicon minus</hi> for a while on yo r Tents, and at laſt <hi>Linimentum arcei,</hi> making your Tents ſhorter and ſhorter as the wound heals: You will know how it incarns by a reddiſh ſpeck, which you will ſee on the end of your Tent when you take it out, and on all the reſt of the Tent pure quitter. If this man be feaveriſh, you may open a Vein in the time of his cure; and if coſtive, give him Clyſters; and to facilitate his Cure, let him have of the wound Drink.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="58" facs="tcp:184664:39"/>
+               <head>
+                  <hi>CHAP. XI.</hi> How to Cure a Wound of the Fleſhy Parts, with loſs of ſubſtance.</head>
+               <p>NOW I'll ſuppoſe a Man has a great part of the Galf of his Leg carried away by a great ſhot. Here firſt you take thick Dorſels or Pledgits, and ſqueeze them out of <hi>aqua ſtiptica vitrioli,</hi> then arm them either with your reſtrictive ready mixt, or with reſtringent powder alone; You apply theſe, and good Bolſter and Rouler at preſent, laying him with the part higher than the Body.</p>
+               <p>Next dreſſing it will not be proper to uſe the hot Fomentation, for 'tis like there is an aptneſs to bleed: But let your com<g ref="char:EOLhyphen"/>mon digeſtive be applyed, and a defenſive, of <hi>Diach. Sym. &amp; Ol. Roſ.</hi> all about and a<g ref="char:EOLhyphen"/>bove the wound. When you have the blood ſecurely ſtopt, let Tincture <hi>de Myrhae</hi> be your Lotion, and the next dreſ<g ref="char:EOLhyphen"/>ſing your Fomentation muſt be applyed hot, to recal the Spirits back, for it's much if you do not ſee a miſs of them.</p>
+               <p>If either the ſhot has grazed on the bone, or the fleſh is ſo carried away that the bone is ſeen; let <hi>
+                     <g ref="char:V">Ʋ</g>nguent Terebinth.</hi>
+                  <pb n="59" facs="tcp:184664:39"/>
+be applyed next it, but to the reſt (when 'tis well digeſted) <hi>Baſilicon;</hi> and when you would have it incarn faſter, <hi>Diapom<g ref="char:EOLhyphen"/>pholigos</hi> mixed; or <hi>Balſamum Vulnerarium,</hi> which is excellent.</p>
+               <p>If ſpungious fleſh ariſe, you may correct it with <hi>Merc. praecipitatum,</hi> or <hi>Alumen <g ref="char:V">Ʋ</g>ſtivum,</hi> or waſh the wound with <hi>Liquor Sa<g ref="char:EOLhyphen"/>lutis,</hi> or <hi>Liquor Vulnerarius Schroderi,</hi> mixt with a ſufficient quantity of <hi>Spiritus vini vitriolati,</hi> will make firm and ſpeedy heal<g ref="char:EOLhyphen"/>ing. Let both Clyſters, wound drink, and Phlebotomy be minded here likewiſe, and then the wound will heal more ſpeedi<g ref="char:EOLhyphen"/>ly and kindly.</p>
+               <p>You are taught in the Chapter of an Amputated Wound, how to bring it to a Cicatrize.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>
+                  <hi>CHAP. XII.</hi> How to Cure a deep inciſed Wound.</head>
+               <p>ADmit a man has got a great cut on the Face with a Back-ſword or Cutlis, ſo that the fleſhy part of his Cheek hangs down; you are immediately to ſtitch this
+<pb n="60" facs="tcp:184664:40"/>
+wound, and being it's in the Face, cloſe the Lips of it very even: Let your Needle be fine and ſlender, that there may not be an ugly ſcar afterward.</p>
+               <p>The beſt thing to lay firſt to this wound when 'tis ſtitcht, is <hi>Pulvis Thuraloes cum Pilis Leporinis, minutiſſimum inciſorum</hi> mixt with the glare of an egg, and applyed on fine Lint or Towe, let it ſtick on till it comes off it ſelf: But if it has done bleed<g ref="char:EOLhyphen"/>ing, waſh it well with Wine, or Spirit of Wine, and apply <hi>Balſamum Hiſpanicum fa<g ref="char:EOLhyphen"/>bricii,</hi> or that of Dr. <hi>Salmons,</hi> and lay a <hi>Paracelſus</hi> Plaiſter over all, and a good Bolſter, and ſo roul it up decently. This latter will go nigh to heal the wound at a dreſſing by agglutination.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>
+                  <hi>CHAP. XIII..</hi> How to Cure great and deep Contuſions, or Bruiſes, without, any eminent Wound, and ſprains of the Joynts.</head>
+               <p>IF a Man hath got a bruiſe, and it is but ſuperficial, whether of the Limbs or any other part, tis cured by embroca<g ref="char:EOLhyphen"/>ting
+<pb n="61" facs="tcp:184664:40"/>
+hot, and often with Oyl of <hi>Hypericon,</hi> and applying a <hi>Paracelſus,</hi> or <hi>Opodeldoch</hi> Plaiſter. But if it is deep, and the Veſſels diſtorted, and the Muſcles bruiſed and writhen, ſo that there is blood lying deep between the Muſcles 'tis dangerous.</p>
+               <p>I ſaw ſuch a thing before <hi>Tripoly</hi> in <hi>Bar<g ref="char:EOLhyphen"/>bary,</hi> when we had wars with that place. A Ship coming to an Anchor, and the Ca<g ref="char:EOLhyphen"/>ble running out, a Kink therein happened to diſaſter a Mans Leg, in this manner: The Chyrurgion Embrocated it with good Oyls, and applyed good Emplaſters to it, but for all that the blood that was forced out of the Veſſels lay deep, and it could not be diſcuſſed, but waxed worſe, and in four days time Gangrened; the Chyrur<g ref="char:EOLhyphen"/>gion ſeeing that, ſent for other Chyrur<g ref="char:EOLhyphen"/>gions (and me among the reſt) on board, but whilſt we were making ready to ampu<g ref="char:EOLhyphen"/>tate it, the Man dyed. In ſuch a caſe as this, let blood as ſoon as you have Embro<g ref="char:EOLhyphen"/>cated it with hot Oyl of <hi>Hypericon,</hi> and applyed your Emplaſter, both about the contuſed Muſcles, and likewiſe about the diſtorted or ſprained Joynt, and be ſure that you make plentiful Phlebotomy, for that will be a great help; and let the wound-drink be drank plentifully, and that is another good help. Bathe and
+<pb n="62" facs="tcp:184664:41"/>
+ſtuff the part well and hot (likewiſe) with <hi>ſpiritus vini communis,</hi> let this be done often, and let your hot Oyl and Emplaſter be not only once a day (as is uſual) but if you mean to ſave a mans Life or Limb, let them be often apply'd.</p>
+               <p>If you find for all this, that the pain increaſes, and the Tumor likewiſe, then endeavour to bring it to maturation as ſoon as poſſible, for if you cannot do this, there will be a Gangrene, (eſpecially if it be ſultry Weather, as I remember was then at <hi>Tripoly.</hi>) Now uſe no repellents, nor any thing to cool inflammation, but apply this maturative Cataplaſm follow<g ref="char:EOLhyphen"/>ing,
+<q>℞ <g ref="char:V">Ʋ</g>nguent. Baſilic. Major. de Muſlagin. Empl. melilot ſymp. q. ſ. miſce. fiat Ca<g ref="char:EOLhyphen"/>taplaſma.</q>
+               </p>
+               <p>There is no Cataplaſm whatever more excellent than this to bring any manner of Tumour to digeſtion; beſides, 'tis made in an inſtant. Continue the repeating of this hot Cataplaſm, till you ſee the Tumor riſe fairly for a head; and when you ſee its ready, ſtay not for its breaking, but open it by inciſion, in the depending part to let out the abundance of goary matter,
+<pb n="63" facs="tcp:184664:41"/>
+that it foul not the Bone, or a Gangrene ſieze inwardly. When it has run well, cleanſe it with that excellent Lotion, <hi>Spi<g ref="char:EOLhyphen"/>ritus vini vitriolati.</hi> Or if it putrified about the Bone, <hi>Tincture of Myrrhe</hi> ſyring'd into it is excellent. And on your Dorcels or Tents, <hi>Balſamum vulnerarium Salmonis</hi> is now very proper; and over all a <hi>diach. plaiſter</hi> or <hi>deminum malax'd</hi> with <hi>Oyl of Roſes</hi> is now of good uſe. But let the ſpreined joynt be ſtill embrocated with <hi>Oleum exce<g ref="char:EOLhyphen"/>ſtrenſe,</hi> or <hi>Hypericon,</hi> and an <hi>Oxicrocium</hi> Seercloth apply'd warm about it.</p>
+            </div>
+            <div n="14" type="chapter">
+               <head>
+                  <hi>CHAP. XIV.</hi> How to Cure a Gangrene.</head>
+               <p>BUT if for all this it would not digeſt, but a Gangren happens, then imme<g ref="char:EOLhyphen"/>diately make deep ſcarification all over; (only have a care of the Nerves) and let out the clotted Blood in abundance.</p>
+               <p>Then foment it with a ſtrong <hi>Lixivium,</hi> made of
+<q>
+                     <pb n="64" facs="tcp:184664:42"/>Wood aſhes, in which decoct your Fomenta<g ref="char:EOLhyphen"/>tion herbs, then add a ſufficient quan<g ref="char:EOLhyphen"/>tity of Spirit of Wine, and as much Sal armoniacum, and common Salt, as will make it as ſtrong as pickle.</q>
+               </p>
+               <p>Foment with this hot and long, which will get out the Blood, and prepare for the other Medicines.</p>
+               <q>℞ Lixivium Capitalis, and ſpiritus vitrioli ſeu ſulphuris.</q>
+               <p>Heat them, and with your armed probe, dipt in them, touch the ſcarifications to the very bottom. And be ſure you have ſcarified as far as the part is Gangren'd. And over this apply Pledgets arm'd with hot <hi>Egyptiacum,</hi> and Spirit of Wine, and <hi>Ol. Guaiac. miſce,</hi> and ſo do it up. This will make him feel if he has any feeling in it, and you need dreſs thus but once, for it will cauſe a thick and deep <hi>Esker</hi> or hard Scurff; and ſtop the proceeding of the Gangrene. And give him inwardly ſuch Medicines as will conduce to ſtop a Gan<g ref="char:EOLhyphen"/>grene, and oppoſe all Venom or Poyſon that may infect the Blood.</p>
+               <q>
+                  <pb n="65" facs="tcp:184664:42"/>℞ Thriac Lond. nov. <g ref="char:dram">ʒ</g>
+                  <hi>ij</hi> in a Glaſs of Wine, and let him ſweat upon it is excellent.</q>
+               <p>Nothing is more powerful in this Caſe than this is.</p>
+               <p>Next dreſſing, let your hot <hi>Lixivium</hi> ſtill be applyed; and apply on your Pled<g ref="char:EOLhyphen"/>gets onely hot <hi>Baſilicon,</hi> to ſoften and get of the <hi>Esker,</hi> at two or three dreſſings you'l ſee it to digeſt, and the dead to ſe<g ref="char:EOLhyphen"/>parate from the quick. And let not <hi>Phle<g ref="char:EOLhyphen"/>botomy</hi> be wanting, nor Clyſters if you ſee occaſion. It would ſcare a man to ſee what an ugly black ſcurff is on it, but by thus dreſſing of it, you will ſee it firſt part or open a little about the ſides be<g ref="char:EOLhyphen"/>tween the dead part and the living; and at laſt come all off together with digeſtion under it. Then <hi>Aqua Phagadenica</hi> is an excellent Lotion. And <hi>Liquor Salutis,</hi> or <hi>Vulnerarium Scroderi;</hi> with <hi>oleum Guaicum,</hi> and <hi>ſpirit of Wine</hi> apply'd hot on <hi>Dorcels</hi> will heal it to admiration. But if it is turn'd to a <hi>Sphaſulus,</hi> nothing ſtops it but Amputation.</p>
+            </div>
+            <div n="15" type="chapter">
+               <pb n="66" facs="tcp:184664:43"/>
+               <head>
+                  <hi>CHAP. XV.</hi> How to Cure Burns or Scalds.</head>
+               <p>IT falls out often that either by a Car<g ref="char:EOLhyphen"/>tridge of powder or otherwiſe, men are in a Fight lamentably burn'd. I have known ſome ſo burn'd that the very Nerves and Tendons have ſhrunk; cauſing great Inflamations, Feavers and other grievous Symptoms. For whatever part of the Body that happens unto, it dryes up the moiſture of that part. Cauſing (if the burn be great) an <hi>Eſcar</hi> with intolerable pain.</p>
+               <p>You have at preſent a two-fold ſcope to endeavour, that is, to fetch out the burn<g ref="char:EOLhyphen"/>ing, and eaſe the pain.</p>
+               <p>Firſt anoint him all over where the burning is, with
+<q>℞ Alb ovor. and Oyl of Roſes and Lini, beaten together.</q>
+               </p>
+               <p>Then on ſoft Cloth ſpread <hi>unguent. &amp; alb. populion; miſce.</hi>
+               </p>
+               <p>Let it be thick ſpread and often dreſſed, for this is a ſore that will ſoon dry up the
+<pb n="67" facs="tcp:184664:43"/>
+Humidity of the Medicines, and if Bliſters ariſe, cut them, that the hot and ſcald<g ref="char:EOLhyphen"/>ing water may not ulcerate deeper under them. Let this kind of dreſſing be uſed till the fire's out, but as ſoon as you per<g ref="char:EOLhyphen"/>ceive the heat to mitigate, have a care how you apply too cooling things to it any longer, for fear of a Gangrene, but now endeavour digeſtion.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nguent. Baſilicon Minus</hi> either alone, or mixed with <hi>Balſamum Balſaminae</hi> is the fitteſt Medicine.</p>
+               <p>Be ſure here to mind the mans body, for heat will make him Coſtive; give him Clyſters, and let him blood (if the burn be deep) for he will be Feveriſh. When you ſee it digeſts, then
+<q>℞ Oleum Cerae, Lini, &amp; ex vitel, ovor. miſce; are an excellent Balſam.</q>
+               </p>
+               <p>Or <hi>Balſamum Balſaminae and ſpirit Gua<g ref="char:EOLhyphen"/>iac. miſce,</hi> will infallibly cure although the Nerves are contracted. If the face be burn'd, pick out the Corns of powder with your Needle, ſome each dreſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng. And mind this, that in theſe burnt Ulcers, you bind not too hard, but let things lye eaſie on, and when you anoint, let it be with a Feather.</p>
+            </div>
+            <div n="16" type="chapter">
+               <pb n="68" facs="tcp:184664:44"/>
+               <head>
+                  <hi>CHAP. XVI.</hi> How to Cure a violent Bleeding at Noſe.</head>
+               <p>IT comes often that men are taken with a violent bleeding at Noſe. Divers ways men have uſed to ſtop it, and that which has ſtop'd one mans bleeding has not ſtopt anothers. Some apply wet Clothes dipt in <hi>acetum</hi> to the Privities, others make Ligature about the Joynts; ſome apply cold Iron to the neck, and o<g ref="char:EOLhyphen"/>thers ſtop the Noſe with reſtringent Dor<g ref="char:EOLhyphen"/>cels.</p>
+               <p>Now the Veins are eroded within the <hi>Os Cribratum,</hi> ſo that your Tent will not come to touch the place, and the other means do often fail. When you have fill'd his Noſtril with the Dorcel, the blood comes into the Mouth through the <hi>infundibulum,</hi> inſomuch as he will ſpit it out at the Mouth.</p>
+               <p>Now your way is, to let the Patient forcibly ſnuff up his Noſtril, <hi>Aqua ſtiptica Vitrioli,</hi> and by that it will go to the e<g ref="char:EOLhyphen"/>roded place. Let him do this often, then put up a Dorcel dip'd in the ſame; not
+<pb n="69" facs="tcp:184664:44"/>
+too hard, to fill up the Noſtril, but wet ſo as he may ſnuff the water at the end of the dorcel, and ſo let the dorcel ſtay there. And in the mean time, let him blood to make revulſion, and by this means it will ſtop. But for the better ſecurity, let him drink this following;
+<q>℞ Aqua Papaveris. ſyr. mirtinorum ana ℥<hi>ij,</hi> aqua ſtiptica Vitrioli gut. <hi>xx.</hi> Tin<g ref="char:EOLhyphen"/>ctura papaveris &amp; Hyoſciami, balſam. Phyloſophorum, ana gut. <hi>vj.</hi> fiat potus.</q>
+               </p>
+               <p>Any one of theſe afore-named Medi<g ref="char:EOLhyphen"/>cines (eſpecially the <hi>aqua ſtiptica vitrioli</hi>) in <hi>Poppy-water</hi> is very powerful of it ſelf to ſtop the bleeding, (if you have not them all) you may give of it <hi>per ſe</hi> to xxx drops.</p>
+               <p>A Bolus of <hi>Thriac Lond. Nova</hi> 
+                  <g ref="char:dram">ʒ</g>j <hi>with Sanguis ſymphiti</hi> ℈j, is likewiſe approved. Some apply this <hi>acollemata</hi> to the Frons and Temples.</p>
+               <q>℞ Bol ver. ſang. drac. Calx, thus, Maſtich ana parts equal, decoct them. Then add farina Ovab. q. ſ. to make it into a Catap. in fine beat Vitel Ov. Cum Ol. myrtinor. miſce.</q>
+               <p>Spread this thick and apply it, it power<g ref="char:EOLhyphen"/>fully
+<pb n="70" facs="tcp:184664:45"/>
+ſtops blood not only at Noſe, but likewiſe any other part; and diſſolves blood and dryes it up, that is gathered into any part by a Fall or Bruiſe.</p>
+            </div>
+            <div n="17" type="chapter">
+               <head>
+                  <hi>CHAP. XVII.</hi> How to Cure a Rheumatiſme.</head>
+               <p>THis Diſtemper called a Rheumatiſme, I have often obſerved Seamen to be afflicted with in ſhips that I have been in: 'Tis like the Gout, but not the Gout; it ſiezeth about the Joynts of the Feet, or Hands, or both; and if a flatulent vapour be ſtird up with it, it ſhifts out of one joynt to another, and is called the running Gout: There is ſometimes a light read<g ref="char:EOLhyphen"/>neſs, with ſmall Tumour, and ſwoln Veins about the Joynts that it ſiezeth.</p>
+               <p>He that hath it, hath lamentable pain and miſery, eſpecially in the night. It never is ſeen to break, (although I believe by ill handling it would) for I ſaw the Gout broke under a Gentlemans foot by the application of Cataplaſms; and together with the virulent matter, there came forth
+<pb n="71" facs="tcp:184664:45"/>
+like white ſeeds in abundance, harder than the matter; by which a man may ſee what a prodigious humour the Gout is of.</p>
+               <p>I could never find that Purging, or Sweating would do any good in this diſeaſe, but rather exaſperate it; and drinking of Wine is an Enemy to it; for moſt of them that I have ſeen have it, have got it by drinking over much raw Wine, and then lying down in the cold to ſleep, whence the Humours plethorick have not had that expiration through the pores of the skin as they ſhould, and the humours could not receive the third concoction for want of heat; ſo Nature expels the raw humour to the outward or extream parts: And at the Joynts the Crude humours make a ſtop, and the blood makes not ſo good a circu<g ref="char:EOLhyphen"/>lation as it ſhould: This then is a Rheu<g ref="char:EOLhyphen"/>matiſme.</p>
+               <p>Now bleeding is the principal remedy in this grief, not only once but often, and a good large quantity at a time. The beſt of Oyles or Oyntments, whether hot or cold, I could never find to do any good; and Emplaſters have ſignified as much as nothing. Bathe the part well with <hi>Liquor antipodagricus Minſichti,</hi> or <hi>aqu. Arthritica Quercitani:</hi> Then embrocate it with the quintiſſence of <hi>Colocynthidos fabri,</hi> and An<g ref="char:EOLhyphen"/>timony.
+<pb n="72" facs="tcp:184664:46"/>
+I ſay, with the often bathing and chaſing in of theſe Medicines, and frequent uſe of Phlebotomy; and when pain is inſufferable, taking inwardly five or ſix grains of that excellent Nepenthae.</p>
+               <q>℞ Quinteſſentia Papaveris &amp; Hyoſciami, in a little Ale, or common Water.</q>
+               <p>There will be preſent eaſe, and ſpeedy cure; ſo if a man hath a fit of the Gout or Sciatica on board, although he doth not expect you to cure him, yet he would be glad of eaſe if you can give it him; and you have no better way than this to do it.</p>
+            </div>
+            <div n="18" type="chapter">
+               <head>
+                  <hi>CHAP. XVIII.</hi> How to Cure ſetled Pains in any part, Old Aches from former Bruiſes, Cramp, ſtifneſs of Sinews and Cricks in the Back, numbneſs of the Limbs and Joynts.</head>
+               <p>MEn often at Sea complain to you of theſe things, eſpecially in cold Cli<g ref="char:EOLhyphen"/>mates, and againſt bad Weather, and will ask you for ſomething of an Oyl or Sear-cloth to eaſe them.</p>
+               <p>If it be Cold, Cramp, Numbneſs, ſweat them well, with Methridate, or Venus Treacle: Then foment the grieved part
+<pb n="73" facs="tcp:184664:46"/>
+with hot <hi>Spiritus vini Communis, and Oyle of Sulphur;</hi> for theſe will certainly give relief. If it be a Crick in the back, or old bruiſes, after this, embrocate well with <hi>Oleum ex<g ref="char:EOLhyphen"/>ceſtrence,</hi> or <hi>Lumbricorum,</hi> and then <hi>Em<g ref="char:EOLhyphen"/>plaſtrum de galbano Crocato</hi> laid warm on, is the beſt means that can be uſed; and for ſtiffneſs of the ſinews, <hi>Oleum Vulpinum,</hi> or <hi>
+                     <g ref="char:V">Ʋ</g>nguent Martiatum,</hi> have not their fel<g ref="char:EOLhyphen"/>lows: Or, that <hi>Liquor Antipodagricus</hi> ba<g ref="char:EOLhyphen"/>thed on any part, or for any pain hot, and a ſtuph wrung out of it laid often on, aſſu<g ref="char:EOLhyphen"/>redly doth your work.</p>
+            </div>
+            <div n="19" type="chapter">
+               <head>
+                  <hi>CHAP. XIX.</hi> How to Cure the Squinzie.</head>
+               <p>SEamen are afflicted with this Diſeaſe as well as thoſe at Land; it is an inflama<g ref="char:EOLhyphen"/>tion of the Muſcles of the Throat, with Tumour both outward and inward: 'Tis a diſtemper of <hi>Plethory,</hi> and ſuffocates a man in a little time, if not remedied. Here bleed<g ref="char:EOLhyphen"/>ing is immediately required, firſt under the Tongue, then in the Jugulers or Arm, and let it be frequently celebrated, and a conſi<g ref="char:EOLhyphen"/>derable
+<pb n="74" facs="tcp:184664:47"/>
+quantity; for this is a main thing in this Cure. Together with bleeding, either keep the Body open with Clyſters: As,</p>
+               <p>The Common Decoction, and <hi>Lenitivum,</hi> or <hi>Tinctura ſolutiva</hi> ℥j inwardly, which is an excellent Medicine for that purpoſe.</p>
+               <p>Externally bathe it well with <hi>acetum vini albi,</hi> wherein <hi>Sal prunellae, ſalarmoniacum, A<g ref="char:EOLhyphen"/>lumen Crudum</hi> are diſſolved, and ſome drops of Oyl of Sulphur, or Vitriol are mixed: Add to ſome of this Syrrup <hi>Diamoron,</hi> and gargle it in the mouth often, and it will abate the inward Tumour and Inflamation of the Tonſeils and Throat, then apply <hi>Emplaſtrum Hyrundinis</hi> to the outward Tu<g ref="char:EOLhyphen"/>mour: 'Tis this,
+<q>℞ Nido Hirund, alb. Graecum ana ℥<hi>j.</hi> figgs, dates, ana <hi>N<hi rend="sup">o</hi> 3.</hi> flor Chamo. pulv. Lini, &amp; fenug. ana <g ref="char:dram">ʒ</g>
+                     <hi>vj.</hi> decoct in aqu. Com. then add <g ref="char:V">Ʋ</g>nguent. dealthea ℥<hi>ij.</hi> Oyl violar. ℥<hi>j.</hi> Croc. Angl. ℈<hi>j.</hi> Vitel Ov. <hi>N<hi rend="sup">o</hi> 1.</hi> f. Cataplaſma</q>
+               </p>
+               <p>This, with the Gargariſme, and Lotion, and Phlebotomy, cures the greateſt Squinzy.</p>
+            </div>
+            <div n="20" type="chapter">
+               <pb n="75" facs="tcp:184664:47"/>
+               <head>
+                  <hi>CHAP. XX.</hi> To Cure the Relaxation of the <g ref="char:V">Ʋ</g>vula's and Amygdalas.</head>
+               <p>SOmetimes by cold men have their Al<g ref="char:EOLhyphen"/>monds of the Ears down, and their Collumella relaxed by a moiſt Rhume di<g ref="char:EOLhyphen"/>ſtilling on them from the Brain. The beſt way to cure this, is to ſweat the man well, to dry up that Rheume that deſcends: A dram or two of <hi>Lon.</hi> Treacle in a glaſs of Wine is a good Medicine, and let him wrap his Stockins about his neck, and keep his head warm, and ſweat when he is turned in. Some blow reſtringent pouder upon the Uvula, with their Uvula Spoon; others dip their wet Thumb in pouder of Pepper, and ſtroak on them; but the beſt way is to make a Gargle, with lign. Guaic. in pure white Wine, and gargle often with it; and put ſome Spirit of Guaicum in your Uvula Spoon, and blow it forcibly on the Amyg<g ref="char:EOLhyphen"/>dals and Uvula, for theſe will powerfully dry and conſtringe: When this is done, then ſtroaking them up gently with the hands outwardly, is very ſerviceable. If any bone, or other thing ſtick in the throat
+<pb n="76" facs="tcp:184664:48"/>
+and cannot be extracted with the forceps, it muſt be thruſt down with your Inſtru<g ref="char:EOLhyphen"/>ment of Whalebone, with a ſmall pellet of ſpunge faſtned to the end of it.</p>
+            </div>
+            <div n="21" type="chapter">
+               <head>
+                  <hi>CHAP. XXI.</hi> To Cure the Tooth-Ach.</head>
+               <p>THE Quinteſſenſes of Cloves and Colo<g ref="char:EOLhyphen"/>cynthis, are great arcanums as to the Tooth-ach: But <hi>Ol. Odontalgicum Sal<g ref="char:EOLhyphen"/>monis</hi> is now found the beſt of all. A ſmall Pellit of Lint dipt therein, and put into the Tooth, with your Fleme. It cauſes the Rheume to fall away, and the Teeth to leave aching: If it be a cold Rhume, you would do well to ſweat the Man, with <hi>Lond. Thriac.</hi> If hot, a grain of laud given inwardly, doth a great deal of good, and let him lay down his head, but hollow, and rotten Teeth are beſt drawn out.</p>
+            </div>
+            <div n="22" type="chapter">
+               <pb n="77" facs="tcp:184664:48"/>
+               <head>
+                  <hi>CHAP. XXII.</hi> Of Opthalmias, or Suffuſions; and Pearls on the Eyes.</head>
+               <p>AN Opthalmia is a Diſeaſe wherein the eyes, either one or both have a Rhume deſcended into them of Blood and Choler, whence Pin, Web, Film, or Pearl generally comes.</p>
+               <p>There is <hi>Liquor Opthalmicus, &amp; Aqua Opthalmica Schroderi,</hi> are excellent Eye-waters. But that <hi>Aqua Opthalmica Salmo<g ref="char:EOLhyphen"/>niana</hi> is moſt approved of now: It doth not only cure all manner of Rheumatick and blood-ſhot eyes, and dry up their Sores, but takes off Pearls and Filmes, by waſhing the Eyes therewith, 'Tis good here to let blood, if it be of Plethory, but if of Cacochymia to purge the head with <hi>Pil extractum rudij</hi> 
+                  <g ref="char:dram">ʒ</g>ſs. Some help to di<g ref="char:EOLhyphen"/>vert the rheume by bliſters behind the ears, and in the Neck: Others make a Seaton in the Neck. Unguentum Tutiae mixt with Diapompholigos, and applyed on Linnen double clothes to the Eyes all Night, and waſht off in the Morning with white Roſe water, doth greatly help to cure the Eyes.</p>
+               <pb n="76" facs="tcp:184664:49"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="77" facs="tcp:184664:49"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div n="23" type="chapter">
+               <pb n="78" facs="tcp:184664:50"/>
+               <head>
+                  <hi>CHAP. XXIII.</hi> Deafneſs, ſtoppage of the Ears, Pain, and Impoſthume.</head>
+               <p>IF the Deafneſs be not Natural, but come accidentally, and yet there be no ſtop<g ref="char:EOLhyphen"/>page by ear-wax, then <hi>ſpirit Otalgicus</hi> dropt warm into the Ears morning and evening, and Muskified Cotton after it, is the beſt of Remedies: But if the Ear be ſtopt with hard wax, then put oyl of Camomil into it two or three times a day, for 2 or 3 days: At laſt take warm White Wine, and ſy<g ref="char:EOLhyphen"/>ringe it often and forcibly into the Ear, and there will come forth a lump of hard Wax out of the auditory paſſage; then ſtop the Ear with the <hi>Spiritus Otalgicus,</hi> and <hi>Muskified Cotton,</hi> as before: If there be an impoſthume, then <hi>Balſamus Polychre<g ref="char:EOLhyphen"/>ſtus mynſichti,</hi> is of excellent uſe dropt in<g ref="char:EOLhyphen"/>to the Ear, and Cotton after it: giving inwardly, <hi>Antimo. Diaphoreticum cum Tar<g ref="char:EOLhyphen"/>tar, gr.</hi> x, <hi>or</hi> xv, given in Spirit of <hi>Guai<g ref="char:EOLhyphen"/>cum</hi> for three or four dayes together.</p>
+            </div>
+            <div n="24" type="chapter">
+               <pb n="79" facs="tcp:184664:50"/>
+               <head>
+                  <hi>CHAP. XXIV.</hi> Of the Piles, and Procedentia Ani.</head>
+               <p>THE Piles is a troubleſome thing, and painful, ſo that a man cannot do his labour but in miſery.</p>
+               <p>It is a benefit of Nature, and is not to be expected to be cured ſo as never to re<g ref="char:EOLhyphen"/>turn, eſpecially whilſt a man is in his mans eſtate, and full of Blood.</p>
+               <p>The beſt way is to make the Body open and laxative, that there may be no ſtrain<g ref="char:EOLhyphen"/>ing with <hi>Tinctura ſolutiva,</hi> or <hi>Syr. roſarum ſolu.</hi> ℥j or two: After this, either <hi>
+                     <g ref="char:V">Ʋ</g>nguen<g ref="char:EOLhyphen"/>tum Hemorhoidalae,</hi> or <hi>Oleum Scrophulariae,</hi> are excellent Medicines; but <hi>Oleum Succi<g ref="char:EOLhyphen"/>num</hi> anointed on never fails, you may mix it with <hi>Oleum Lini.</hi> Inwardly <hi>xx</hi> or <hi>xxx</hi> drops of <hi>Aqua ſt ptica vitrioli</hi> in warm Wine or Poppy-water is very prevalent. If the <hi>Anus</hi> be proceeded, bathe it with warm Wine, then ſtrow flower of Maſtick on it, and return it, and bind it ſo as it may take a habit to ſtay up.</p>
+            </div>
+            <div n="25" type="chapter">
+               <pb n="80" facs="tcp:184664:51"/>
+               <head>
+                  <hi>CHAP. XXV.</hi> For Boyles and Felons.</head>
+               <p>TO ripen theſe Boyles and Felons, ap<g ref="char:EOLhyphen"/>ply this Cataplaſme.</p>
+               <q>℞ <g ref="char:V">Ʋ</g>nguent. Baſilici majoris &amp; Valentiae Scabioſae, e Mucilaginibus Emplaſt. Me<g ref="char:EOLhyphen"/>lilot. ſimplex. q. ſ. f. Cataplaſma.</q>
+               <p>Apply this warm and often, till it is ready, then ſtay not its breaking, but open it: Cleanſe it with <hi>Liquor Vulnerarius ſchroderi &amp; Spiritus vini vitriolati, Ana. part. equal.</hi> This will not only mundifie, but applyed warm on Dorcels, heals it to admiration. You may at laſt uſe <hi>Balſamum Tereb. Simp.</hi> and about it a <hi>Diachalon cum Gum. plaſter.</hi>
+               </p>
+               <p>Note, That if it ſhould be a Peſtilen<g ref="char:EOLhyphen"/>tial Carbuncle, then add to the <hi>Cataplaſ<g ref="char:EOLhyphen"/>ma, Emplaſt. Magneticum Hartmanni;</hi> for then it will not only ripen it) but power<g ref="char:EOLhyphen"/>fully draw out the <hi>Venome,</hi> and <hi>Elixir Peſti<g ref="char:EOLhyphen"/>lentiale Crollij</hi> 
+                  <g ref="char:dram">ʒ</g>ſs. in the morning faſting.</p>
+            </div>
+            <div n="26" type="chapter">
+               <pb n="81" facs="tcp:184664:51"/>
+               <head>
+                  <hi>CHAP. XXVI.</hi> A Phlegmonous Tumour.</head>
+               <p>SOmetimes from <hi>Plethory</hi> there ariſeth a Sanguine Tumour in ſome part.</p>
+               <p>If it be in the emunctory, or any part where Nature is deſigned to exonerate it ſelf of its too great a quantity of Blood; apply no repellents, only let blood plen<g ref="char:EOLhyphen"/>tifully at firſt, and apply a diſcuſſive and emollient Cataplaſme.</p>
+               <q>℞ As Emplaſt. Emolliens &amp; <g ref="char:V">Ʋ</g>ngu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. de althaea q. ſ. fiat Cataplaſma.</q>
+               <p>The Emollient Emplaſter is thus made,
+<q>℞ Oxicroc. ℥<hi>ij.</hi> diach. ſimp. &amp; Compoſit &amp; Melilot. an. ℥<hi>j.</hi> cum Ol. Camom. Miſce.</q>
+               </p>
+               <p>If you ſee it inclines to ſuppuration, and will out, your way is to apply a ſuppera<g ref="char:EOLhyphen"/>ting Cataplaſm as this: <q>℞ <g ref="char:V">Ʋ</g>nguent. Baſil. majoris, unguent. Scabioſae valentiae, e Mucilaginibus, &amp; Melilot, Symp. &amp; Comp. f. Cataplaſma.</q>
+               </p>
+               <p>
+                  <pb n="82" facs="tcp:184664:52"/>This will bring it to ſpeedy ſuppuration, being applyed very warm and often.</p>
+               <p>When it has run well, abſterge and heal it with <hi>Spirit. Vini Vitriolati;</hi> for that apply<g ref="char:EOLhyphen"/>ed hot either with Syringe, or on Pledgits or Dorcels, certainly heals it from the bottom: or <hi>Balſum Tereb. ſimplex,</hi> and all over let be an Emplaſter of <hi>Diachalon Magnum.</hi>
+               </p>
+               <p>If there is any thing of malignancy in the Tumour, then mix your maturative with <hi>Emplaſt. Magneticum Hartmanni;</hi> as in the laſt Chap. and inwardly give him of <hi>Elixir Peſtilentiale Crollij</hi> 
+                  <g ref="char:dram">ʒ</g>ſ. in the morn<g ref="char:EOLhyphen"/>ing faſting.</p>
+            </div>
+            <div n="27" type="chapter">
+               <head>
+                  <hi>CHAP. XXVII.</hi> Of an Eryſipelas and Cholerick puſhes.</head>
+               <p>SOmetimes there are ſudden inflations, bubling Cholerick puſhes, and eriſipelas Ulcers, as <hi>Ignis ſacer,</hi> or Wild-fire, a ſharp inflamation; here <hi>Oleum Roſaceum Omphacinum,</hi> is of excellent uſe; more eſpe<g ref="char:EOLhyphen"/>cially if <hi>Liquor Tutiae Mynſichti</hi> be firſt ba<g ref="char:EOLhyphen"/>thed well on the place; and if the Chole<g ref="char:EOLhyphen"/>rick Ulcers are yet more deep, mix with
+<pb n="83" facs="tcp:184664:52"/>
+your <hi>Omph. roſ. Oleum unguent diapompholigos,</hi> and apply it: Let Blood, and purge Cho<g ref="char:EOLhyphen"/>ler: As,
+<q>℞ Syr. roſ. ſolut. ℥<hi>j.</hi> quinteſſentia Coloc. ℥<hi>j.</hi> give it in any proper vehicle.</q>
+               </p>
+               <p>'Tis an excellent purpoſe to the intenti<g ref="char:EOLhyphen"/>on, and ſo is <hi>Carioſtinum Electu.</hi> ℥<hi>ſ.</hi> in the morning faſting.</p>
+            </div>
+            <div n="28" type="chapter">
+               <head>
+                  <hi>CHAP. XXVIII.</hi> Of Phlegmatick Tumours and <g ref="char:V">Ʋ</g>lcers.</head>
+               <p>A Phlegmatick Tumour is long ari<g ref="char:EOLhyphen"/>ſing, and not very painful: ſuch are Struma's and Scrophula's: in the Limbs it pitts. Firſt purge Phlegm and watry humours: As,
+<q>℞ Quinteſſentia Turpethum <g ref="char:dram">ʒ</g>
+                     <hi>j.</hi> Tinctura ſalis Tartari gr. <hi>x.</hi> Magiſterium ſalis gr. <hi>viij.</hi>
+                  </q>
+Mix theſe in Rheniſh Wine, or Sack, and let him drink it in the morning faſting, not only once but often.</p>
+               <p>
+                  <pb n="84" facs="tcp:184664:53"/>Let his Drink be as followeth:
+<q>℞ Sarſaper. Guaic. an. ℥<hi>viij.</hi> Gum. Guaic. ℥j. Succ. Liquoriciae ℥<hi>iiij.</hi> Rectified Spirit of Wine <hi>lb viij,</hi> mix, digeſt twenty dayes, decant and keep it for uſe.</q>
+               </p>
+               <p>Let him drink of this two ſpoonfuls in a glaſs of Wine at night when he turns in, and a ſpoonful at other times; this is the beſt drying dyet Drink in the World; not only for this, but the Pox, or Plague, or Scurvy. 'Tis called <hi>Liquor alexipharmicus ſeu ſcorbuticus.</hi>
+               </p>
+               <p>To the part it ſelf apply a hot fomenta<g ref="char:EOLhyphen"/>tion or Lixivium; ſtrong Spirit of Wine applyed on with warm ſtuphs is excellent: Then, <q>℞ Emplaſt. de galbano Crocato &amp; ad To<g ref="char:EOLhyphen"/>phos, ana part. equal.</q>
+               </p>
+               <p>To make it into a Cataplaſmick conſiſtence add <hi>unguent<g ref="char:punc">▪</g> de althaea.</hi> 'Tis the moſt ex<g ref="char:EOLhyphen"/>cellent as yet known for this purpoſe.</p>
+               <p>If it was an Ulcer before you ſaw it, together with theſe means, apply into the Ulcer,
+<q>
+                     <pb n="85" facs="tcp:184664:53"/>℞ Liquor. vulnerarium ſchroderi, or Li<g ref="char:EOLhyphen"/>quor. Salutis.</q>
+               </p>
+               <p>Let the Ulcers be well waſhed with theſe, or either of them; either by Sy<g ref="char:EOLhyphen"/>ringe, or otherwiſe: Then arm your Dorſels or Tents with <hi>Balſam. Vulner. Salmon.</hi> and dip them in one of theſe Li<g ref="char:EOLhyphen"/>quors, and put them in hot, and on them the above-named Emplaiſter, and ſo make decent rouling, which laſt is a great help in the Cure of theſe Ulcers.</p>
+            </div>
+            <div n="29" type="chapter">
+               <head>
+                  <hi>CHAP. XXIX.</hi> Of Cancers, Schirrhous Tumors, Phaga<g ref="char:EOLhyphen"/>denick <g ref="char:V">Ʋ</g>lcers and Fistulaes.</head>
+               <p>HEre you muſt uſe the ſame dyet drink as in the former Chapter. And ei<g ref="char:EOLhyphen"/>ther to diſſolve or ripen theſe Tumours; to the other Emplaſters there mentioned, add, <hi>Emplaſtrum ſchirrhoſum Salmonis.</hi>
+               </p>
+               <p>Then have you the beſt reſolvent or maturative of malignant and rebellious Tumours that ever was invented. And if
+<pb n="86" facs="tcp:184664:54"/>
+they be Ulcers, <hi>Aqua Phagadaenica,</hi> either of it ſelf, or mixt with <hi>Spiritus Vini,</hi> is the chiefeſt Medicine to bathe and ſtuff the Ulcers with. Then <hi>Balſamum Vulnerarium Salmon.</hi> with <hi>Quinteſſence of Cloves</hi> applyed hot on Dorſels, with the Emplaiſter over it, is a powerful Medicine. If the bone be foul, you have <hi>Pulvis Turbith. miner.</hi> to apply next it to ſcale it. But you muſt purge this ſullen humour out of the Body, or never expect the Tumours or Ulcers to heal.</p>
+               <p>To do this, there's no nobler a Medi<g ref="char:EOLhyphen"/>cine under the Sun than,
+<q>℞ Panchymagogum Mineralae Quercitani gr. <hi>x.</hi> in pil ex duobus gr. <hi>x.</hi> miſce fiant pil.</q>
+               </p>
+               <p>Give this every other Morning faſting, till the body be rectified of this ſtubborn and poyſonous humour, for this will pow<g ref="char:EOLhyphen"/>erfully bring forth all vitious and poyſon<g ref="char:EOLhyphen"/>ous humours: But if he cannot take Pills, let a ſpoonful or two of <hi>decoctum Colocyn<g ref="char:EOLhyphen"/>thidos Salmonis</hi> in a glaſs of wine, every o<g ref="char:EOLhyphen"/>ther morning, be the medicine, and look after him as is requiſite in Purges.</p>
+               <p>You muſt alſo ſee to oppoſe powerfully all venemous quality of the humours, and
+<pb n="87" facs="tcp:184664:54"/>
+beſides the dyet-drink give ſometimes this,
+<q>℞ Either Thriac. Lond. nova <g ref="char:dram">ʒ</g>
+                     <hi>i,</hi> or Be<g ref="char:EOLhyphen"/>zoarticum ſolare Comp. Salmon. gr. <hi>viij</hi> in a glaſs of Sack, and let him ſweat upon it.</q>
+               </p>
+               <p>Cancers are uſually extirpated, and then the place brought to digeſtion and healed.</p>
+               <p>You extirpate a Cancer with your Cat<g ref="char:EOLhyphen"/>ling, but if a Finger or Toe, you extir<g ref="char:EOLhyphen"/>pate it with your Chizel and Mallet.</p>
+            </div>
+            <div n="30" type="chapter">
+               <head>
+                  <hi>CHAP. XXX.</hi> Of Gravel and Strangury.</head>
+               <p>SOmetimes Men happen to be cruelly tormented with this diſeaſe at Sea, and although they do not expect you perfectly to cure it, yet they would be glad of a little eaſe, and it would make any man pity them to ſee them ſo excruciated. If it be about the Reins, then do this,
+<q>
+                     <pb n="88" facs="tcp:184664:55"/>℞ Sal vitriolium emeticum <g ref="char:dram">ʒ</g>
+                     <hi>ſs</hi> Spiritum Salis gut. <hi>xx</hi> in a glaſs of White-wine or Rheniſh.</q>
+this certainly removes and diſſolves it. If in the neck of the bladder, then,
+<q>℞ Spiritum Nephriticum, Cloſſei gut. <hi>viij</hi> or <hi>x</hi> in ſyrup of Marſh-Mallowes, and aqua perſicaria.</q>
+This if you can have it is inſuperable, in forcing away the Gravel and Urine, but if you have it not, then
+<q>℞ Aqua Comminuens Calculum Horſtii <g ref="char:dram">ʒ</g>
+                     <hi>ij,</hi> or ℥ts at a time.</q> is excellent as to the intention.</p>
+               <p>If a large Gravel-ſtone ſtick in the Yard, force it back with your Catheter. If in the fit of the Strangury, you give ſome<g ref="char:EOLhyphen"/>thing to make the Body ſoluble, and carry away the hard feces, that oppreſs the neck of the bladder, you will do well; as thus,
+<q>℞ Tincturam ſolutivam ℥<hi>i</hi> Elix. Juniperi, a ſpoonful in a glaſs of Malago.</q>
+               </p>
+               <p>
+                  <pb n="89" facs="tcp:184664:55"/>And in the extremity of miſery, that worthy Anodine, <hi>Ens veneris gr.</hi> x drank in a glaſs of Canary, when the man turns in, does not only give immediate eaſe and comfort, but likewiſe diſſolves the Tarta<g ref="char:EOLhyphen"/>rous Muſcleage, or concreted ſubſtance.</p>
+            </div>
+            <div n="31" type="chapter">
+               <head>
+                  <hi>CHAP. XXXI.</hi> How to Cure a Clap.</head>
+               <p>THere is yet another Diſtemper which Seamen meet ſometimes with by go<g ref="char:EOLhyphen"/>ing a ſhore, and that is a <hi>Clap.</hi> Now for as much as this is not got by the Ships work, ſo it is not cured on the Ships ac<g ref="char:EOLhyphen"/>count, but the Man pays you for it: But it is a Chyrurgical Cure, and you are de<g ref="char:EOLhyphen"/>ſired by the Man to cure him.</p>
+               <p>We commonly call that a Clap (and not the Pox, although a chip of the ſame block) when the venemous humour lyeth about the Genitals or Seed-Veſſels, and hath not yet infected the maſs of blood, nor got into the bones.</p>
+               <p>A Clap appears either in a Gonorrhea, Tumour of the Yard, Shankers, pricking
+<pb n="90" facs="tcp:184664:56"/>
+in the Urinary paſſage, or Bubo in the Groin. Whatever way it appears, bleed not at all, for that were the way to bring it into the body.</p>
+               <p>The firſt thing you muſt do is to purge out the Poyſonous Vapour. The accuſto<g ref="char:EOLhyphen"/>mary way, and indeed a very good way is this, <q>℞ Pil rudii ℈<hi>j</hi> reſina Jalupi &amp; Calome<g ref="char:EOLhyphen"/>los ana gr. <hi>x</hi> f. pilulae,</q>
+               </p>
+               <p>If he cannot take Pills then, <q>℞ Electu. pro morb. Gal. Salmon. ℈<hi>ij.</hi>
+                  </q>
+               </p>
+               <p>Or if a Bolus will not down with him, then, <q>℞ Decoctum Colocynthidos Salmon. two ſpoonfuls in a glaſs of Wine.</q>
+               </p>
+               <p>If he can take any of theſe, you may in<g ref="char:EOLhyphen"/>terchange them, as you ſee fit, becauſe the too often taking of the ſame thing cloys the patient.</p>
+               <p>They muſt be taken in the Morning faſting, and he muſt be ordered as to purge; when he has purged ſufficiently, for four or five days, the running will
+<pb n="91" facs="tcp:184664:56"/>
+ceaſe; only ſome ſmall gleeting 'tis poſſi<g ref="char:EOLhyphen"/>ble will remain. To Cure which, <q>
+                     <p>℞ Tereb. Cypr. ℥<hi>j</hi> open it with the Vitel. ovorum, mix it with aqua plantag. ſtrain it, and let him drink it every night for three or four times. <hi>Or,</hi>
+                     </p>
+                     <p>℞ Icthyocolla decocted, either in water if you are on board, or in Milk if a ſhoar, an Ounce at a time, and drank whilſt it is warm.</p>
+                  </q>
+Either of theſe will effectually ſtop the gleeting.</p>
+               <p>If there is a pricking in the Yard when the Man makes water: <hi>Inject Troches alba enaſſis mixt in aqua plantag.:</hi> And if little Ulcers, Shankers, Puſtules, <hi>&amp;c.</hi> be on the Glans, or between that and the prepuce, touch them with <hi>Flor. Egyptiac.</hi> or ſome<g ref="char:EOLhyphen"/>times <hi>album Camphoratum</hi> will do; But if the Yard is ſo ſweld that you cannot get at theſe Shankers, then apply a warm Plaiſter of <hi>Paracelſus</hi> malaxt with <hi>unguent de Althea,</hi> and that will diſcuſs and reſolve it: But if a Tumour ariſe in the Groin, purge not by any means, but let the Pa<g ref="char:EOLhyphen"/>tient take this drink following to help to drive out the venemous humour, which
+<pb n="92" facs="tcp:184664:57"/>
+nature is heaving at; and to hinder a far<g ref="char:EOLhyphen"/>ther progreſs of infection.</p>
+               <q>℞ Liquor. alexipharmicum ſeu ſcorbuticum, ſarſa. Guaic. ana ℥<hi>viij,</hi> Gum. Guaic. ℥<hi>j,</hi> Suc. Liquor. ℥<hi>iiij,</hi> Spirit. Vini rectif. <hi>lb viij,</hi> mix, digeſt twenty days, decant and keep it for uſe.</q>
+               <p>Let him take two ſpoonfuls of this in ſmall Ale or Beer, every morning and night, and one ſpoonful in each draught he drinketh at any time; and to the Bubo apply this Maturative Cataplaſm follow<g ref="char:EOLhyphen"/>ing to bring it to a head; (ſeek not to re<g ref="char:EOLhyphen"/>pel it by any means).</p>
+               <q>℞ <g ref="char:V">Ʋ</g>ng. Baſil. maj. valentiae ſcabioſae, è mucila<g ref="char:EOLhyphen"/>ginibus, Melilot Comp. Empl. ſcirrhoſum Salmonis, q. ſ. f. Cataplaſma.</q>
+               <p>This is the beſt that can be named to ri<g ref="char:EOLhyphen"/>pen a malignant Bubo or Carbonel; when 'tis ready ſtay not its breaking, but open it, and let it run well; when it has run ſufficiently then fall to purging, as you were taught before, to carry away the relicks of the poyſonous humour, then cleanſe the Ulcer with <hi>aqua phagad<g ref="char:punc">▪</g>
+                  </hi> and ſpirit of Wine, and heal it with <hi>Balſa<g ref="char:EOLhyphen"/>mum
+<pb n="93" facs="tcp:184664:57"/>
+Vulnerarium Salmonis,</hi> or <hi>Eſſentia Sul<g ref="char:EOLhyphen"/>phuris,</hi> on Dorſels or ſoft Tents; and <hi>Emplaſtrum Diach. cum Gum.</hi> over all; which method certainly cures the ſeveareſt of Claps.</p>
+            </div>
+            <div n="32" type="chapter">
+               <head>
+                  <hi>CHAP. XXXII.</hi> How to Cure a confirm'd Pox.</head>
+               <p>NOW we call this <hi>Morbus Venereus,</hi> a confirm'd Pox, when it hath paſſed the Liver, and is got into the blood, and that the ſpots and puſtules appear, and nodes and night pains are felt.</p>
+               <p>Here the ſame dyet-drink muſt be kept to as in the former Chapter, for there is no better in the World; the ſame purging likewiſe muſt be uſed as in a Clap: Purge ſix or ſeven days firſt, and then deſiſt; and ſweat two or three days, and ſo to purg<g ref="char:EOLhyphen"/>ing again: When you would ſweat, to ſome of your dyet-drink add a ſpoonful of <hi>Spir. Guaic.</hi> and make him ſweat pow<g ref="char:EOLhyphen"/>erfully, for by this way of purging and ſweating we uſually Cure the Pox at Sea.</p>
+               <p>If there remain the Reliques of an old
+<pb n="94" facs="tcp:184664:58"/>
+Pox, you have no better way than to give him <q>℞ Aurum vitae ſenerti gr. <hi>viij,</hi> in Pil ex duobus gr. <hi>xij,</hi> miſce.</q>
+               </p>
+               <p>Let him have this doſe every other day, for ſome time together; and when you would have him ſweat, give him the ſame doſe of the <hi>aurum vitae,</hi> with <hi>Tinctura Gumi Guaici</hi> two ſpoonfuls in a glaſs of Rheniſh. So this unparalleld Medicine of it ſelf, by continuing of it thus, will do your work without Fluxing.</p>
+            </div>
+         </div>
+         <div n="3" type="book">
+            <pb n="95" facs="tcp:184664:58"/>
+            <head>
+               <hi>THE Third BOOK,</hi> Teacheth how the Sea-Chirurgeon ought to Execute the Phyſical Office impoſed on him at Sea.</head>
+            <p>'TIS ſo that the Sea-Chirurgion muſt do the part of a Phyſitian at Sea, and if he is not capable of that, he is not fit to take charge at Sea; indeed it is to his coſt, for whereas he ſpends one Crown in his Chyrurgical imploy, he ſhall ſpend three in the Phyſi<g ref="char:EOLhyphen"/>cal, (unleſs he has better luck then I have had).</p>
+            <p>But ſince 'tis ſo, I'll teach you how to Cure thoſe inward diſeaſes that are moſt incident to the Sea, and firſt I'll begin with the Scurvy.</p>
+            <div n="1" type="chapter">
+               <pb n="96" facs="tcp:184664:59"/>
+               <head>
+                  <hi>CHAP. I.</hi> Of the Scurvy.</head>
+               <p>THE Scurvy all men know is a diſtem<g ref="char:EOLhyphen"/>per that Seamen are much troubled withal. It proceeds from putrifaction of the blood, and that from Obſtructions, and thoſe from a corrupt Aliment, or (ſometimes) from over full dyet, of Fleſh or Fiſh, and eſpecially when there wants the ſucculency of freſh Vegetables, as on ſhoar, for in thoſe Countrys where they drink Wine, and eat green Fruit, as Le<g ref="char:EOLhyphen"/>mons, Apples, or Roots and Herbs, as Salads, together with their Meat, ſuch are ſeldom or never troubled with the Scurvy: Nor our Men neither when we come in them Countryes where thoſe things can be got; but otherwiſe we are ſeldom free of it. This I have experien<g ref="char:EOLhyphen"/>ced, when we have gone a <hi>New-found Land</hi> and <hi>Straits</hi> Voyage.</p>
+               <p>And to this we may add difference of Climates, for in <hi>New-found Land,</hi> (al<g ref="char:EOLhyphen"/>though they have had freſh Fiſh, and o<g ref="char:EOLhyphen"/>ther diet) I have known our people have the Scurvy lamentably, both in the Coun<g ref="char:EOLhyphen"/>try
+<pb n="97" facs="tcp:184664:59"/>
+and eſpecially after our departure from thence, between that and the <hi>Straits;</hi> which when we have arrived in <hi>Spain,</hi> and the Combotes have come on board, our men have with Wine and freſh trade mended preſently; This I impute both to the Aliment and Country, for I have ſeldom ſeen the Scurvy got in that Coun<g ref="char:EOLhyphen"/>try, or indeed in any part of the <hi>Straits.</hi>
+               </p>
+               <p>It uſually appears in ſpots on the Limbs, and the Legs ſwell, and pit under the Fin<g ref="char:EOLhyphen"/>ger, with ſtiffneſs in the Thighs and Hams, looſe Teeth, and rotten Gums; 'tis ſo well known at Sea, that every Sailer that has uſed the Sea any time, knows when another has it. But it is Objected againſt ſome, that lazineſs is the cauſe of it, and to others, that naſtineſs brings it on them; but let me write this word (in vindication of the diſeaſed) that I have known as ſtout Seamen, and as ſtirring, and as neat men as ever croſt over Salt-Water, afflicted ſadly with this diſtem<g ref="char:EOLhyphen"/>per: Therefore it is not theſe, but the other cauſes that I have named, that brings the Scurvy.</p>
+               <p>Now as to the Cure, you have heard already what dyet and drink they ſhould have; for with them things that I have named, few Medicines are required for
+<pb n="98" facs="tcp:184664:60"/>
+the Scurvy; but without them, it will puzzle you with all the Medicines in your Cheſt to cure it.</p>
+               <p>I have found it very good to let blood in the beginning of this diſtemper, when it comes upon a Plethorick Perſon, and one that hath had a full dyet, but when it hath come after a lingring Feaver, then not; for very often men have with it the Jaundice or Dropſie, or both, which Com<g ref="char:EOLhyphen"/>plexed <hi>Cacochymia</hi> makes it look like a ma<g ref="char:EOLhyphen"/>ny headed <hi>Hydra,</hi> and it will not be cured by only Scorbutick Medicines, whence we are ſo often at a loſs about it.</p>
+               <p>If it be the Scurvy only,
+<q>℞ Electu. ſcorb. Salmon. <g ref="char:dram">ʒ</g>
+                     <hi>ij</hi> Calomelos gr. <hi>v</hi> f. bolus.</q>
+give this in the morning faſting. Or, <q>℞ Liquor. ſcorb. Salmon. two ſpoonfuls, ſpirit ſalis gut. <hi>xx,</hi> in a glaſs of White Wine.</q>
+               </p>
+               <p>Any of theſe medicines are well known to be formidable enemies againſt the Scur<g ref="char:EOLhyphen"/>vy: But if it hath its rebellious Aſſoci<g ref="char:EOLhyphen"/>ates along with it, ſo that theſe medicines are not found capable: If it be Hydropick, then
+<q>
+                     <pb n="99" facs="tcp:184664:60"/>℞ Quinteſſentia Turpethum <g ref="char:dram">ʒ</g>
+                     <hi>ſ,</hi> Tinct. ſal. Tart. ℈<hi>j</hi> in a glaſs of Rheniſh.</q>
+               </p>
+               <p>This is a medicine that ſurpaſſeth all other liquid medicaments in this caſe; it purges delicately by ſtool. Or if the Jaundice, then,
+<q>℞ Aurum vitae ſenerti gr. <hi>viij,</hi> Elixir purgans Panchymagogum <g ref="char:dram">ʒ</g>
+                     <hi>j</hi> in a glaſs of wine.</q>
+this effectually Cures, opens Obſtructions, and roots out the ſeeds of ſtubborn diſea<g ref="char:EOLhyphen"/>ſes; working with a great deal of ſafety and pleaſantneſs, if followed for ſeveral days.</p>
+               <p>Now when the Scurvy is thus Compli<g ref="char:EOLhyphen"/>cated with theſe other diſtempers, there is uſually generated a certain malign or venomous quallity, which is little better then catching in a Ship; therefore you ought to have an eye to this: So that now and then <g ref="char:dram">ʒ</g>ſ or a <g ref="char:dram">ʒ</g>j <hi>of Quinteſſentia vitrioli,</hi> drank in a glaſs of Sack, is the beſt medi<g ref="char:EOLhyphen"/>cament that the world can afford in this and ſuch like caſes. If you have not this: <hi>Theriac. Lond. nova</hi> 
+                  <g ref="char:dram">ʒ</g>j or ij in a glaſs of Wine is excellent, and let the
+<pb n="100" facs="tcp:184664:61"/>
+man ſweat on it. Let him drink half a ſpoonful of <hi>tinctura gumi Guaic.</hi> in all his drink, if it be the moiſt Scurvy, but if the dry Scurvy, then <hi>Elixir Vitrioli Myn<g ref="char:EOLhyphen"/>ſichti</hi> ℈ſ.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> Of Fluxes.</head>
+               <p>FLuxes are very frequent at Sea, eſpe<g ref="char:EOLhyphen"/>cially when the victuals grow bad; or when we come in Countries where we get abundance of bad Wine and beverage, or are reduced to drink ſtinking water ſometimes; when our Engliſh victualling is done, and we change to ſome other Country victuals, I have known Fluxes come all theſe ways.</p>
+               <p>Come how they will, our way to Cure them is, firſt to purge with <hi>Rhubarb,</hi> and 'tis beſt thus, <q>℞ Rubarb ℥<hi>j,</hi> Cinnamon <g ref="char:dram">ʒ</g>
+                     <hi>j,</hi> infuſe it all night in Wine, in the morning ſtrain it, and add to a quarter of a pint thereof Syr. of Myrtles ℥<hi>j;</hi> f. potus.</q>
+                  <pb n="101" facs="tcp:184664:61"/>
+let him drink this in the morning faſting.</p>
+               <p>In this diſeaſe let him forbear crude Wine and Fruits; (ſuch as the Scurvy re<g ref="char:EOLhyphen"/>quires are here Enemies) at night give him a drachm of <hi>Diaſcordium</hi> when he goes to try to reſt. Next morning have ready a doſe of the ſame infuſion of <hi>Ru<g ref="char:EOLhyphen"/>barb,</hi> as before, adding only freſh <hi>Cinna<g ref="char:EOLhyphen"/>mon</hi> to it, and this ſecond infuſion has (if not altogether) almoſt loſt its Cathartick quallity, and now is moſtly reſtrictive. The night following give him a good drink of burnt Wine, with a branch of Roſemary, and ſome Cinnamon in it, and ſweetned with white Sugar. This method ſtops moſt white Fluxes.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> Of a Dyſentery or Bloody Flux.</head>
+               <p>A Bloody Flux hath moſt frequently the ſame primary cauſes as the other, however there are ſharp corroding Chol<g ref="char:EOLhyphen"/>lerick humours, fretting and ulcerating the Inteſtines.</p>
+               <p>'Tis requiſite here to let blood in the firſt place; I have found that to do a great
+<pb n="102" facs="tcp:184664:62"/>
+deal of good. Purge him likewiſe with the firſt, and then endeavour to bind with the ſecond infuſion of <hi>Rubarb</hi> as before: But withal there is too often in this, as in the Scurvy, a ſecret malignity poyſonous and infectious, and it cauſes others to fall ſick, if it be the ruining diſtemper in the ſhip.</p>
+               <p>This venomous quallity proceeds from the corruption of humours; therefore it is to be powerfully oppoſed: <hi>Thriac. Lond. nova,</hi> 
+                  <g ref="char:dram">ʒ</g>j in a glaſs of Wine is very power<g ref="char:EOLhyphen"/>ful, and will deſtroy the very eſſence of venome; give it not only once but often. And to heal the Ulcers of the Bowels, give him healing Clyſters.</p>
+               <q>℞ White-wine ℥<hi>viij,</hi> Quinteſſence of A<g ref="char:EOLhyphen"/>riſtolcchiae <g ref="char:dram">ʒ</g>
+                  <hi>ij,</hi> Quinteſſentia Myrrhae ℈<hi>ij,</hi> ſhake it together.</q>
+               <p>This is the beſt of all Clyſters, to heal the Bowels, if it be injected warm. And to eaſe pain and bind after due purging; the beſt that I know is this,
+<q>℞ Syrup. Diamor. ℥<hi>j</hi> electu diacorallinum ℈<hi>ij,</hi> Tinctura Mart. pro deliquio ℈<hi>j,</hi> Quinteſſentia papaveris &amp; hyoſciami gut. <hi>iij,</hi> this in a ſmall glaſs of Cinnamon<g ref="char:EOLhyphen"/>water, drank, is excellent.</q>
+               </p>
+               <p>
+                  <pb n="103" facs="tcp:184664:62"/>And then good Cordials are of great uſe, for men in a little time grow extream faint,
+<q>℞ Quinteſſentia Cymamoy, gut. <hi>iiij,</hi> Tin<g ref="char:EOLhyphen"/>ctura Corallinum gut. <hi>x.</hi> in a ſpoonful of Tinctura vitae is an excellent Cordial.</q>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> Of a Cholera.</head>
+               <p>A Cholera is a violent vomiting, and ſometimes a looſneſs with it from Cholerick humours in the Stomach and firſt paſſages: The beſt way is firſt to cleanſe away theſe vitious humours.</p>
+               <q>℞ Spir. vitae Rulandi <g ref="char:dram">ʒ</g>
+                  <hi>j,</hi> Tinctura flor. reguli antimon. gr. <hi>iiij,</hi> give it in a glaſs of Wine.</q>
+               <p>Theſe will not only carry away the hu<g ref="char:EOLhyphen"/>mours both ways, but throughly rectifies the diſtemper of the Stomach and firſt
+<pb n="104" facs="tcp:184664:63"/>
+paſſages: When this has done working, burn him half a pint of Sack, with a branch of Roſemary, and a blade or two of Mace, and ſweeten it with ℥<hi>j.</hi> of Syr. of Mirtles, or dryed Roſes, and let him drink it hot: Or, <q>℞ Aqu. Aromatica <g ref="char:dram">ʒ</g>
+                     <hi>j.</hi> quinteſſentia Cy<g ref="char:EOLhyphen"/>namo. &amp; Menthae, an. gut. <hi>x.</hi> Syrup. Dyamor. or Mel ros Colat, ℥<hi>j.</hi> in a glaſs of choice Canary: <hi>Or,</hi> Elixir Vitrioli ℈<hi>j.</hi> in Spiritu Menthae.</q>
+               </p>
+               <p>Theſe are inferiour to no ſtomachicals in the whole World: And let the region of his ſtomach be anointed with Oyl of Mace.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Of a Surfeit.</head>
+               <p>SUrfeits at Sea generally come by over drinking, (although indeed they may come by over-eating, or from the vi<g ref="char:EOLhyphen"/>tions quality of what is eaten) it is ſo that nature refuſeth to digeſt the great quanti<g ref="char:EOLhyphen"/>ty
+<pb n="105" facs="tcp:184664:63"/>
+that a man has drank: As a man that hath a burden too heavy, doth not ſo much as lift at it.</p>
+               <p>Some nature is ſo propitious to them, that when they are too full of drink, they vomit, but ſome do not; but are extream ſick at ſtomach, and the head achs as it would ſplit. Now if ſuch had given them a draught of warm Water, with ſome ℥ij Oxymel of Squils in it, they would vo<g ref="char:EOLhyphen"/>mit and prevent a Surfeit; eſpecially if after their vomiting they had a pint of Wine burnt, with a ſprig of Mint, and a blade of Mace, and ſweetned with fine Su<g ref="char:EOLhyphen"/>gar, and ſo drank hot: But if it hath paſ<g ref="char:EOLhyphen"/>ſed the Stomach before the man ſpeaks to you; and the Liver doth not digeſt it, but lets it lye in the firſt paſſages, then there is worſer pains and heat.</p>
+               <p>Now Vomiting of it ſelf will do no good: But, <q>℞ Spirit. vitae Rulandi <g ref="char:dram">ʒ</g>
+                     <hi>j</hi> Tinctura a florreguli antimo. gut. <hi>iiij.</hi> Oxim. Scil. ℥<hi>j.</hi>
+                  </q>
+               </p>
+               <p>This in a glaſs of Wine will work plea<g ref="char:EOLhyphen"/>ſantly both wayes, and free both Stomach and inteſtines of the ſuperfluous humour that Nature is charged withal. Some in this caſe uſe a Clyſter, <hi>Electum Cariocoſt.</hi>
+                  <pb n="106" facs="tcp:184664:64"/>
+℥j in moderately hot Wine injected, excel<g ref="char:EOLhyphen"/>lently draws down the excrement and noxious fumes and evacuates it to the Pa<g ref="char:EOLhyphen"/>tients great eaſe and comfort.</p>
+               <p>The Body thus cleanſed, let him then drink the burnt Wine hot, and add to it a ſcruple of <hi>Elixir vitrioli mynſichti,</hi> and then it is a powerful ſtomachical, and will cauſe digeſtion: But ſometimes it has paſt the Liver, and hath not been well con<g ref="char:EOLhyphen"/>cocted there, but is ſent as it were half digeſted into the Veins, and ſo there is no third concoction; it doth not make blood fit to nouriſh, and now it is a confirm'd Surfeit, and 'tis like the Surfeit ſpots come out; and there's a Feaver, and loathing of Food, but a great thirſt, and deſire of more cold drink.</p>
+               <p>Now aſhore 'tis common in this caſe to run to the Apothecaries for Surfeit water, and when he hath drank that, and not the bet<g ref="char:EOLhyphen"/>ter; then to the Doctors, but it is com<g ref="char:EOLhyphen"/>monly too late for't, for many a man loſes his Life by ſuch delayes, and by truſting to the Surfeit water only. You are here to give diſcuſſing Clyſters: As,
+<q>℞ Decoct. Com. pro Clyſt ℥<hi>j.</hi> Eclect. Cario<g ref="char:EOLhyphen"/>coſtin. ℥<hi>j.</hi> f. enema.</q>
+               </p>
+               <p>
+                  <pb n="107" facs="tcp:184664:64"/>And let blood before it is too late; for abateing the great quantity of boyling blood is a great help: Then purge from the moſt remote parts, with <q>℞ Electu. Cath. regali <g ref="char:dram">ʒ</g>
+                     <hi>ij.</hi> either in Bolus, or a Glaſs of Wine:</q>
+               </p>
+               <p>For this is one of the beſt in this caſe: Or, If he cannot take this: Then, <q>℞ Tinctur. Cathart. Grulangij <g ref="char:dram">ʒ</g>
+                     <hi>j.</hi> in a Glaſs of Rheniſh is a good Medicine; and Pil. Ruff. <g ref="char:dram">ʒ</g>
+                     <hi>ſ.</hi> or a <g ref="char:dram">ʒ</g>
+                     <hi>j.</hi> is approv'd.</q>
+               </p>
+               <p>When theſe things are firſt done, then your Surfeit water will do good: The beſt of Surfeit water is, <q>℞ Aqua papaveris compoſita ℥<hi>ij.</hi> Tinctura Croci ℥<hi>j.</hi> Elix. vitrioli ℈<hi>j.</hi> Thriac Lond. Nova, ℥<hi>j.</hi>
+                  </q>
+               </p>
+               <p>Let him drink this in a glaſs of choice Canary, and ſweat him well. Theſe things will cure and cauſe a good digeſtion in all parts.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="108" facs="tcp:184664:65"/>
+               <head>
+                  <hi>CHAP. VI.</hi> Of the Pluriſie.</head>
+               <p>MEN are often taken with the Pluri<g ref="char:EOLhyphen"/>ſie: 'Tis a Tumifaction of the in<g ref="char:EOLhyphen"/>ward Tunicle of the Ribbs, called <hi>Plura,</hi> with inflamation: Sometime there is win<g ref="char:EOLhyphen"/>dy Spirit with it, cauſing pricking, with extream pain, and a Coughing; becauſe the Lungs are ſtraitned, and ſometimes are inflamed with it: Here bleeding is to be forthwith celebrated not once, but often repeated. Diſcuſſing Clyſters are to be adminiſtred:
+<q>℞ Decoct Carminativum ℥<hi>j. as in Chap. 7.</hi> Electum cariocaſt. ℥<hi>j.</hi> f. enema.</q>
+               </p>
+               <p>Theſe carry away a great deal of wind and Pluratick matter out of the Body.</p>
+               <p>This having done working, <q>℞ Spirit plureticus Rennotti ℥<hi>j.</hi> Aqua pa<g ref="char:EOLhyphen"/>paveris Comp. &amp; Liquor Cord. refri<g ref="char:EOLhyphen"/>gerans an. ℥<hi>ij.</hi>
+                  </q>
+               </p>
+               <p>
+                  <pb n="109" facs="tcp:184664:65"/>Theſe, with the other means will give eaſe immediately.</p>
+               <p>If there ſhould be an Impoſthume: Then, <q>℞ Antimo. diaph. Cum. Tartar. gr. <hi>x.</hi> ſal pectorale ℈<hi>j.</hi> with Spirit. Guaic. a ſpoon<g ref="char:EOLhyphen"/>ful in Syr. Jujubino, or aqua Hordia. f. potus.</q>
+               </p>
+               <p>Let him drink this, and embrocate the ſide with Oyl of Chamo.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> Of the Cholick and Wind.</head>
+               <p>AT Sea Men are oftentimes taken with fits of the Cholick, with inſufferable griping. It is by corrupt humours, and windy vapours in the Tunicles of the in<g ref="char:EOLhyphen"/>teſtines; it generally comes by cold. Some<g ref="char:EOLhyphen"/>times the Body is bound with this Diſeaſe, and then in the <hi>Weſt-Indies</hi> it is called the dry gripes. Sometimes there is a Looſe<g ref="char:EOLhyphen"/>neſs, with intolerable tortion of the Bowels. If it were wind alone, an excel<g ref="char:EOLhyphen"/>lent Clyſter were that of Tobacco, given
+<pb n="110" facs="tcp:184664:66"/>
+in a fumigatory Cliſter-pipe: Otherwiſe a pint of Sack injected has been approved to do good to a wonder: But if corrupt humours are together with this wind, then your Carminative Clyſter is this: <q>℞ Cem. Calid. quatuor: Bacc. Laur. &amp; &amp; Juniper ana ℥<hi>j.</hi> Zedoari ℥<hi>j.</hi> flor Camom. &amp; Melilot an. pugil: To the ſtrain'd decoction ℥<hi>x.</hi> ol. Camom. ℥<hi>ſs.</hi> Electuar. Cariocoſt. ℥<hi>j.</hi> f. enema.</q>
+               </p>
+               <p>The Clyſter injected warm, will work to your hearts content, and there will be great eaſe; eſpecially if you give inward<g ref="char:EOLhyphen"/>ly a good Cordial.</p>
+               <q>℞ Tinctura vitae a ſpoonful, Quinteſſentia Papaveris &amp; Hyoſciami gut. <hi>iij.</hi> in a glaſs of choice Sack.</q>
+               <p>By this time he will have wonderful eaſe and refreſhment.</p>
+               <p>But to root out the windy, and cor<g ref="char:EOLhyphen"/>cupt Cemenary, purge the Body well: <q>℞ Electum Cathart. regale <g ref="char:dram">ʒ</g>
+                     <hi>ij.</hi> or Syr. de ſpina cervina ℥<hi>ij.</hi>
+                  </q>
+               </p>
+               <p>Theſe will powerfully eradicate the Di<g ref="char:EOLhyphen"/>ſtemper
+<pb n="111" facs="tcp:184664:66"/>
+and you had better do it at once, than let it run on, and the Patient not throughly well: And then after all a pint of good burnt Wine, with aromatick Spice in it, and leaves of Mint, and ſweetned with ponder Sugar, and drank hot, is a ſpecial thing to cloſe up your cure.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>
+                  <hi>CHAP. VIII.</hi> Of Coſtiveneſs.</head>
+               <p>SOmetimes it happens that men are ve<g ref="char:EOLhyphen"/>ry Coſtive, or hard bound; or it may be there are paſſingers on board, or deli<g ref="char:EOLhyphen"/>cate perſons, that rather ſuffer a great deal of miſery by this, than to take a Clyſter, eſpecially ſuch as are Sea-ſick, and vomit much; I have known ſome who in a whole week together have not gone to ſtool: If any ſuch complains to you, your way is to give him, either, <q>℞. Syr. de quincqu. rud. ℥<hi>ij.</hi> or Tinctura ſolutiva the like quantity.</q>
+               </p>
+               <p>Or if it be a perſon of honour as ſome<g ref="char:EOLhyphen"/>times
+<pb n="112" facs="tcp:184664:67"/>
+happens to be at Sea, Then, Your <hi>Quint. roſar. Palidar</hi> ℥j. is the lovelieſt of all Purging Medicines in the World what<g ref="char:EOLhyphen"/>ever. Theſe curiouſly open, and gently purge, and leave not a binding quality be<g ref="char:EOLhyphen"/>hind them; and the latter is truly Cor<g ref="char:EOLhyphen"/>dial withal. If it were a Childs, ℥j. of Manna in its drink would be grateful to it.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>
+                  <hi>CHAP. IX.</hi> Of the Wormes.</head>
+               <p>I Have known when men at Sea have been very much troubled with the Worms: And then 'tis uſual to give them Calome<g ref="char:EOLhyphen"/>los ℈j in ſome purging Pill: Others give <hi>Spirit Vitriol,</hi> ſome drops in their drink, and ſome <hi>Cem. Abſynth</hi> in ponder in Hony: But <hi>Quinteſſentia Colocynthidos</hi> 
+                  <g ref="char:dram">ʒ</g>ſ, <hi>&amp; Quin<g ref="char:EOLhyphen"/>teſſentia Centauri Major. &amp; Minor.</hi> 
+                  <g ref="char:dram">ʒ</g>j, <hi>&amp; Sal prunellae</hi> ℈j, theſe in a glaſs of Wine or Beer ſurely deſtroy the Worms.</p>
+               <p>And this excellent Pouder, called <hi>Pulv. ad Lumbricos Magiſtralis ana</hi> ℈j <hi>ad</hi> 
+                  <g ref="char:dram">ʒ</g>ſ in any convenient vehicle is of excellent uſe as to this intention. But ſometimes you
+<pb n="113" facs="tcp:184664:67"/>
+have young Children and tender perſons on board that cannot take Medicines, and yet hap to have the Worms: Then anoint the Belly or Stomach with that precious Oyl of Myrrh, and it will effectually do the work.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>
+                  <hi>CHAP. X.</hi> Of Colds, Coughs, Rhumes, Catarrhs.</head>
+               <p>IT falls out very often that men are trou<g ref="char:EOLhyphen"/>bled with theſe Diſtempers at Sea, and will deſire of you ſomething to ſweat: Which indeed is the beſt way, if it be a new cold: A pint of burnt Wine, with a branch or two of Roſemary, and Cloves, and Mace, and Cinnamon, with a <g ref="char:dram">ʒ</g>j of <hi>Lond Thriac</hi> in it, and brewed with the yolk of an Egg, and ſweetned with Loaf Sugar, and drank hot when he turns in, and ſo to let him ſweat well: This is un<g ref="char:EOLhyphen"/>doubtedly the beſt Medicine in the World.</p>
+               <p>But a Catarrh is a Rhume that has ta<g ref="char:EOLhyphen"/>ken a habit of trickling ſlily down the <hi>Aſ<g ref="char:EOLhyphen"/>pera arteria,</hi> and ſo to the Lungs; this
+<pb n="114" facs="tcp:184664:68"/>
+cauſeth extream Coughing, and by reaſon of that ſtraining, the man grows hot and feaveriſh withal, with grievous Head-ach, and when any of this Rhume falls into the Stomach, there is a reaching to Vomit: Nay, ſuch is the Nature of a Catarrh, that it many times erodes the Lungs, and cau<g ref="char:EOLhyphen"/>ſeth a Conſumption.</p>
+               <p>Now the beſt thing you can do, is to purge the Brain, and all the Body of that Catarriſh humour: Either <hi>Pilulae ex duo<g ref="char:EOLhyphen"/>bus,</hi> or <hi>extr. rudij</hi> ℈j, or half a drachm doth it at once excellently well; and when this is throughly done, then your burnt Wine ſpoken of before will come to bare; and when you have ſweat him well, then theſe Medicines following are the beſt that can be uſed.</p>
+               <p>
+                  <hi>Lohoch Crocatum Mynſicti,</hi> is a great ſe<g ref="char:EOLhyphen"/>cret in this Diſeaſe, it digeſts, makes thick, agglutinates, expectorates, coroborates the Spirits, cools inflamation, quenches thirſt, and eaſes the moſt acute pain; 'tis to be taken of the end of a Liquorice ſtick bruiſed.</p>
+               <p>Another excellent thing is <hi>Syr. Catarrhis Mulleri,</hi> this doth not only heal the Ulcers of the Lungs which cauſe blood to be ſpit up, and ſtop the falling of the Rhume, but cures Conſumptions; 'tis to be taken
+<pb n="115" facs="tcp:184664:68"/>
+with a bruiſed Liquoriſh ſtick as the other pectoral Syrrups are, ſuch as Colts-foot, Jujubines, Liquoriſh, and the like.</p>
+               <p>But above all that, <hi>Infuſus Pectoralis Comp.</hi> of Doctor <hi>Salmons</hi> is of inſupera<g ref="char:EOLhyphen"/>ble efficacy, a ſpoonful or two of it at a time drank in a glaſs of Sack, and that often, eſpecially morning and evening: But if you'd give it him to drink, and not by way of Lohoch; then <hi>Tinctura Aſt<g ref="char:EOLhyphen"/>matica Millij</hi> ℥j, <hi>Vinum Juniperium</hi> a ſpoon<g ref="char:EOLhyphen"/>ful, <hi>Elixir Sulphuris,</hi> a few drops in a glaſs of Sack is excellent.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>
+                  <hi>CHAP. XI.</hi> Of Continual Feavers, or Calentures.</head>
+               <p>THeſe are very frequent at Sea, eſpe<g ref="char:EOLhyphen"/>cially in hot Clymates. I have had the woful experience of them, (as well as of Fluxes) at <hi>Scanderoon,</hi> and <hi>Cypris;</hi> ſome<g ref="char:EOLhyphen"/>times they have that degree of malignity in them that wants but little of the Peſti<g ref="char:EOLhyphen"/>lence. Men are uſually taken at firſt with a ſhivering in their Bones, as if they had got a cold: They will ask you for ſome<g ref="char:EOLhyphen"/>thing
+<pb n="116" facs="tcp:184664:69"/>
+to ſweat, and you will do well to burn him a pint of Wine, and give him a <g ref="char:dram">ʒ</g>j. of <hi>Lond. Thriac.</hi> in it, and let him ſweat, for this (it may be) may hinder a further progreſs; But if notwithſtand<g ref="char:EOLhyphen"/>ing this, he turns to burning, and his head to ach extreamly, then defer not to let him blood the next morning; and if you are in a Country where there is ſtore of Wine, and Men have drank much, and inflamed their blood, let not one bleeding ſerve, but repeat it oftener. Give Clyſters likewiſe to mollifie the excrement, and diſcuſs the noxious fumes.</p>
+               <q>℞ Decoct. Com. pro Clyſt. ℥<hi>x.</hi> Cariocoſt. or Benedict. Laxativa ℥<hi>j.</hi>
+               </q>
+               <p>Then after this try what your burnt Wine will do, for now a breathing ſweat will be profitable; but if it be a malig<g ref="char:EOLhyphen"/>nant or burning Feaver, and it is the di<g ref="char:EOLhyphen"/>ſtemper of the Ship, or place where you are, it will have a certain time (do what you can) as it had its beginning, ſo it will have its increaſe, ſtate and declination.</p>
+               <p>All that you can do now is to further (and not hinder) its coming to its ſtate; Therefore give not too cooling things, for by that means many a Man is cooled
+<pb n="117" facs="tcp:184664:69"/>
+out of his Life; and on the other hand, be cautions how you let him take things that will inflame; <hi>Liquor vitriolatus myn<g ref="char:EOLhyphen"/>ſichti</hi> ℥ij. is excellent both ways.</p>
+               <p>If you give him cooling things, let them be ſuch as moderately palliate, are Cordial, and quench thirſt, and yet keep him in a moiſt and natural warmth: As <q>℞ Aqua aromatica <g ref="char:dram">ʒ</g>
+                     <hi>j,</hi> Julupium Alexan<g ref="char:EOLhyphen"/>drinum <g ref="char:dram">ʒ</g>
+                     <hi>ij,</hi> Elixir vitrioli ℈<hi>j;</hi>
+                  </q>
+This in a little <hi>aqua Cordialae refrigerans</hi> is mighty refreſhing, and doth not extin<g ref="char:EOLhyphen"/>guiſh natural heat, but powerfully help it.</p>
+               <p>Again, if you give hot Cordials, let it be ſuch as will not cauſe burning and thirſt, but oppoſe that, and rather cauſe a breathing and natural warmth.</p>
+               <q>℞ Confectio alc herm. <g ref="char:dram">ʒ</g>
+                  <hi>j,</hi> pulv. Gaſcon ℈<hi>j,</hi> in aqua Cord. frigid. Saxon. ℥<hi>ij.</hi>
+               </q>
+               <p>This is a Cordial that would revive (as 'twere) a dying man, and give him, not too heating, but a breathing and na<g ref="char:EOLhyphen"/>tural heat; But before the Feaver comes to its height, uſually men are dileriate, and if it be a right Calenture, he will think the Sea a Meadow, and ſeek to leap
+<pb n="118" facs="tcp:184664:70"/>
+into it: Then (if you cannot convenient<g ref="char:EOLhyphen"/>ly give him Clyſters becauſe he is unruly) give him, <q>℞ Tinctura ſolutiva ℥<hi>j.</hi> in his Barly-water to keep him ſoluble.</q>
+But the nobleſt Medicine under the Hea<g ref="char:EOLhyphen"/>vens in this caſe is <q>Quinta eſſentia roſarum palidarum ℥<hi>j.</hi> per ſe.</q>
+               </p>
+               <p>This as 'tis opening, ſo 'tis powerfully Cordial and Alexipharmick, and the plea<g ref="char:EOLhyphen"/>ſanteſt thing in the whole World.</p>
+               <p>When his Body is open, then endea<g ref="char:EOLhyphen"/>vour to give him a little eaſe and reſt. That excellent Anodine Cordial follow<g ref="char:EOLhyphen"/>ing I cannot but recommend to you, <q>℞ Extractum opii anodinum <g ref="char:dram">ʒ</g>
+                     <hi>j,</hi> Tinctura vitae Minſichti, a ſpoonful.</q>
+               </p>
+               <p>Let him take this and endeavour to reſt, for this will powerfully exhilarate the hurt, comfort the Spirits, reſiſt ma<g ref="char:EOLhyphen"/>lign atoms, provoke a breathing ſweat; it will do (in a manner) whatever you de<g ref="char:EOLhyphen"/>ſire it ſhould do; nothing ſo friendly a
+<pb n="119" facs="tcp:184664:70"/>
+ſecond at this juncture, whilſt Nature is contending with its enemy for Life.</p>
+               <p>But now methinks I hear my ſelf accu<g ref="char:EOLhyphen"/>ſed, that I ſpeak of Medicines fitter for Princes and Noble Perſonages, who have Money enough, then for Chyrurgions of Ships to carry to cure Seamen withal: 'Tis true they are precious, and ſome of them of ineſtimable value: But conſider Life is ſweet to all men, and I hope it is no harm to you to know them that are beſt capable of preſerving Life.</p>
+               <p>But as to the Feaver, there are ſome of that degree of malignity, that they come to their height, and the man either re<g ref="char:EOLhyphen"/>covers or dyes before the ſeventh day, as on the fourth or fifth, ſuch are Peſtilen<g ref="char:EOLhyphen"/>tial, and ſtrike ſeverely at Nature. Others are not ſo acute, but hold till the ninth or tenth day, at what time, if Nature is not ſtrong, it goes hard with the Patient. But moſt recoveries that ever I ſaw, have been the thirteenth or fourteenth day, for about that time is the right natural Criſis, that moſt continual Feavers come to their ſtate, inſomuch as (when I have had twen<g ref="char:EOLhyphen"/>ty or thirty down at a time) he that has lived to the fifteenth day, I have not feared his miſcarrying afterward; except by careleſneſs, or ſome accident, he hath
+<pb n="120" facs="tcp:184664:71"/>
+precipitated himſelf into a relapſe. If his Tongue be foul, clear it with your <hi>Spatula Lingua,</hi> and in all his drink (which ſhould be only Barly-water) give him xx or more drops of <hi>quinteſſentia vitrioli.</hi> If it be the ſpotted Feaver or Peſtilence, let him neither purge nor bleed, for that were dangerous, but let him take a drachm of <hi>Thriac. Lond. nova,</hi> and half a drachm of <hi>quinteſſentia vitrioli,</hi> theſe in a glaſs of Sack are the nobleſt medicines that ever were known, inwardly; and let him ſweat to purpoſe, whilſt he has ſtrength, but moderately if he be weak; <hi>Aqua Epide<g ref="char:EOLhyphen"/>mica</hi> is likewiſe of ſingular vertue, <g ref="char:dram">ʒ</g>j. in angel. water with <hi>Syr. Carioph.</hi> And to bring to a head the riſing (if any ap<g ref="char:EOLhyphen"/>pears) make uſe of that excellent Cata<g ref="char:EOLhyphen"/>plaſma, mentioned in <hi>Chap.</hi> 31. of the Second Book, and when 'tis ready, open it and heal it, as there is taught.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="121" facs="tcp:184664:71"/>
+               <head>
+                  <hi>CHAP. XII.</hi> Of Agues, or intermitting Feavers.</head>
+               <p>NOW in the time of the paroxiſme, them that have the Ague uſe to Vo<g ref="char:EOLhyphen"/>mit; that ſhews a foulneſs of Body, eſpe<g ref="char:EOLhyphen"/>cially the firſt paſſages; and a quotidian, or tertian, I have often cured by given of the Patients ſafe Vomits: As,
+<q>℞ Vinum antimoniale ℥<hi>j.</hi> with Oxymel ſcil. ℥<hi>ſs.</hi> in a glaſs of Wine.</q>
+               </p>
+               <p>Give this about two hours before the fit is to come: 'Tis an excellent thing againſt Agues. Then in the time of the fit, when he cryes out for drink, let him have <hi>Elixir febrile Horſtij,</hi> a <g ref="char:dram">ʒ</g>j or ij in his Barly-wa<g ref="char:EOLhyphen"/>ter, which you'l find powerful againſt the Fever: On the well day, in the morning faſting, let him have <q>℞ Quinteſſentia Turpethum, &amp; Colocynth. fabri ana <g ref="char:dram">ʒ</g>
+                     <hi>ſs</hi> in a glaſs of Wine.</q>
+               </p>
+               <p>Theſe will purge downwards to your hearts content, and in Agues have no equals.
+<pb n="122" facs="tcp:184664:72"/>
+When this has done working, and at night when he turns in, give him of <hi>Aqua febri<g ref="char:EOLhyphen"/>fuga</hi> ℥ij <hi>or</hi> iij, and ſweat him upon it. About two hours before you expect the next fit to come, (whatever Ague it is, Quartan, or any;) let him take this fol<g ref="char:EOLhyphen"/>lowing <q>℞ Eſſentia opij anodinum <g ref="char:dram">ʒ</g>
+                     <hi>ij</hi> in Liquore Vi<g ref="char:EOLhyphen"/>triolato Mynſichti ℥<hi>iij.</hi>
+                  </q>
+               </p>
+               <p>Let him drink it in a glaſs of Sack, and mark the event, which doubtleſs will be to your infinite ſatisfaction, and the Pati<g ref="char:EOLhyphen"/>ents likewiſe.</p>
+               <p>As for your Cordials and Catharticks, and drink, you have them in the laſt Chap<g ref="char:EOLhyphen"/>ter, there can be no better.</p>
+               <p>The pouder of the <hi>Peruvian</hi> bark, cal<g ref="char:EOLhyphen"/>led by the <hi>Indians Quinoquino,</hi> which is the Jeſuits ponder, is given <g ref="char:dram">ʒ</g>ij at a doſe, in a glaſs of White Wine two hours before the Paroxiſme: I was aſſured of the good<g ref="char:EOLhyphen"/>neſs of it in <hi>Smyrna;</hi> the Patiet (as they af<g ref="char:EOLhyphen"/>firm'd tome) hath one ſevere fit next after the taking of it, but no more; and if pur<g ref="char:EOLhyphen"/>ging doth not go before, the Ague will return again in about a months time, as the Doctors there have obſerved, as if it had only lain aſleep ſo long. <hi>Oleum fe<g ref="char:EOLhyphen"/>brifugum,
+<pb n="123" facs="tcp:184664:72" rendition="simple:additions"/>
+&amp; Empl. febrifuga, &amp; Cataplaſma febrifugum,</hi> are all found to do good; but what I have written, is a right Method, and ſure.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>
+                  <hi>CHAP. XIII.</hi> Of the Meaſles, and Small Pox.</head>
+               <p>IT many times happens that Men, (eſpe<g ref="char:EOLhyphen"/>cially the younger ſort) have theſe Diſ<g ref="char:EOLhyphen"/>eaſes in a Ship, and when one hath had it, it uſually goes to more of them; 'tis a nauſious Diſeaſe in a Ship. They are uſu<g ref="char:EOLhyphen"/>ally taken at firſt with a dulneſs or heavi<g ref="char:EOLhyphen"/>neſs, and then a pain in the back, with grievous Head-ach. Now it is held good in <hi>England</hi> to lot blood in this Diſeaſe; but there is a Feaver before the Small Pox breaks out, and a man knows not if it will be the Small Pox or no, (eſpecially if it hath not already been in the Ship;) by reaſon of which ſome are let blood; but if it hath been in the Ship, then you will be cautious when you have theſe ſigns, whether it will be the Small Pox or no; an opening and diſcuſſing Clyſter can do no
+<pb n="124" facs="tcp:184664:73"/>
+hurt; and if it ſhould be a Feaver only, then it will do a great deal of good. If he be a young Perſon that hath theſe ſigns, and one that hath not had the Small Pox, you had not beſt be too forward in let<g ref="char:EOLhyphen"/>ting blood, but defer it till the third day. You may give ſome <hi>London Treacle,</hi> and a Cup of burnt Wine, and cauſe him to ſweat, and that will ſoon ſhew you if it be that Diſtemper or no, for it will the ſooner break out: If it is not hindred by bleeding, nor purging, nor wet, nor cold, (all which are by no means proper) it will come out by the third day.</p>
+               <p>Now your way is to drive it out for<g ref="char:EOLhyphen"/>cibly, for which there is no better thing than this: <q>℞ Tinctura Croci ℥<hi>j,</hi> Antimo. diaph. gr. <hi>x.</hi> Confectio Alcherm. ℈<hi>j.</hi>
+                  </q>
+               </p>
+               <p>Let this be ſhak't together in a glaſs of Sack and Drank, and now let him be kept exceeding warm, that no cold comes to him; nor let him eat or drink any thing that is cold, or may cauſe a looſeneſs, for that were dangerous: He will be ex<g ref="char:EOLhyphen"/>treamly deſirous of Drink, and if it be Beer, let it be ſtrong, and let every draught that he drinks be moderately warm, with
+<pb n="125" facs="tcp:184664:73"/>
+℈j of <hi>Ruint Corn Ceru</hi> in it: Every two hours give him a ſpoonful of <hi>Aqua Aroma<g ref="char:EOLhyphen"/>tica,</hi> and a ℈j of <hi>Pulv. Gaſcon,</hi> in a little Canary, and this is truly Cordial, and will powerfully expulſe malignity.</p>
+               <p>Have a care of cooling Juleps, (they are not proper) except ſuch as was mentioned in the Chapter of a Feaver, which will withal cauſe a breathing kind moiſture, and them you may uſe moderately.</p>
+               <p>No matter although he doth not go to Stool in four or five dayes; give him no Clyſter for all that, leaſt you make him take cold: For about the firſt criſis he will go to Stool of himſelf, which is about the ſeventh day from his falling ſick.</p>
+               <p>Boyl him Fowles, and let him eat of them (if he can) or at leaſt of their broth; the which let him drink often; he cannot feed himſelf, his attendance muſt do that office for him. Let white Bisket (if you have any on board) be ſteept in his Sack, and let him eat it, and drink the Sack after it. If through ſome ill accident, or the great malignity of the Diſtemper he hath not miſcarried before, he will have them at the height before the fourteenth day, and then recover: But in his recovering, let him have a care of falling into a relapſe by heedleſneſs; for ſo ſome have miſcar<g ref="char:EOLhyphen"/>ried
+<pb n="126" facs="tcp:184664:74"/>
+afterward. Let his face be kept as much out of the Air as poſſible, and let him not ſcratch off the ſcurf with his hands, for by theſe things the Scarrs will be deep; but anoint his face gently with your warm <hi>Album Camphoratum,</hi> and it will cauſe the ſcale to come off eaſily, and leave the new skin, and comely.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:184664:74"/>
+            <head>AN ABSTRACT OF SEA-CHIRURGERY.</head>
+            <div n="1" type="book">
+               <head>The TABLE of the Firſt BOOK, containing ſeveral Directions.</head>
+               <list>
+                  <item>THE Firſt Direction. <hi>Page 1</hi>
+                  </item>
+                  <item>The Second Direction. <hi>Page 2</hi>
+                  </item>
+                  <item>The Third Direction. <hi>Page 5</hi>
+                  </item>
+                  <item>The Fourth Direction. <hi>Page 6</hi>
+                  </item>
+                  <item>The Fifth Direction. <hi>Page 7</hi>
+                  </item>
+                  <item>The Sixth Direction. <hi>ibid.</hi>
+                  </item>
+                  <item>The Seventh Direction. <hi>Page 8</hi>
+                  </item>
+                  <item>The Eighth Direction. <hi>Page 9</hi>
+                  </item>
+                  <item>The Ninth Direction. <hi>Page 10</hi>
+                  </item>
+                  <item>The Tenth Direction. <hi>Page 12</hi>
+                  </item>
+                  <item>The Eleventh Direction. <hi>Page 13</hi>
+                  </item>
+                  <item>The Twelfth Direction. To fit the Chirur<g ref="char:EOLhyphen"/>gery Cheſt. <hi>Page 15</hi>
+                  </item>
+                  <item>The Thirteenth Direction. For fitting the Drug-Cheſt. <hi>Page 17</hi>
+                  </item>
+                  <item>The Fourteenth Direction. <hi>Page 18</hi>
+                  </item>
+                  <item>The Fifteenth Direction. <hi>Page 19</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="2" type="book">
+               <pb facs="tcp:184664:75"/>
+               <head>
+                  <hi>The Second BOOK,</hi> Teacheth how the Chirurgion ought to perform his Chirurgical duty being at Sea. <hi>Pag. 21</hi>
+               </head>
+               <p>
+                  <label>The TABLE.</label>
+               </p>
+               <list>
+                  <item>
+                     <hi>CHap. 1.</hi> How the Chirurgeon ſhould be<g ref="char:EOLhyphen"/>have himſelf on an Engagement day. <hi>Page 21</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 2.</hi> Teacheth what is to be done by the Chyrurgion the next day after the engage<g ref="char:EOLhyphen"/>ment. <hi>Page 29</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 3. Page 32</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 4.</hi> How to proſecute the Cure of the Amputated Wound. <hi>Page 33</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 5.</hi> How to Cure all dangerous wounds of the Joints. <hi>Page 38</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 6.</hi> How to Cure a Compound Fracture, and Diſlocation together. <hi>Page 43</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 7.</hi> How to Cure a wound of the Head with a fracture of the Scull. <hi>Page 48</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 8.</hi> How to cure Wounds of the Abdo<g ref="char:EOLhyphen"/>men and Ruptures. <hi>Page 52</hi>
+                  </item>
+                  <item>
+                     <pb facs="tcp:184664:75"/>
+                     <hi>Chap. 9.</hi> How to cure a penetrating Wound of the Breaſt, and Ribs, or Back. <hi>Page 55</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 10.</hi> How to cure a wound by a ſmall ſhot through a Fleſhy or Muſculous part. <hi>Page 56</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 11.</hi> How to cure a wound of the fleſhy parts with loſs of ſubſtance. <hi>Page 58</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 12.</hi> How to cure a deep inciſed wound. <hi>Page 59</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 13.</hi> How to cure great and deep Con<g ref="char:EOLhyphen"/>tuſions or Bruiſes, without any eminent wound, and ſprains of the Joynts. <hi>Page 60</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 14.</hi> How to cure a Gangreen. <hi>Page 63</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 15.</hi> How to cure Burns or Scalds. <hi>Page 66</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 16.</hi> How to cure a violent bleeding at Noſe. <hi>Page 68</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 17.</hi> How to cure a Rheumatiſme. <hi>Page 70</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 18.</hi> How to cure ſetled pains in any part, old Aches from former Bruiſes, Cramp, ſtifneſs of Sinews, and cricks in the Back, numbneſs of the Limbs and Joynts. <hi>Page 72</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 19.</hi> How to cure the Squinzy. <hi>Page 73</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 20.</hi> To cure the Relaxation of the <g ref="char:V">Ʋ</g>vula's and Amygdala's. <hi>Page 75</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 21.</hi> To cure the Tooth-ach. <hi>Page 76</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 22.</hi> Of Opthalmias, or Suffuſions and Pearls on the Eyes. <hi>Page 77</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 23.</hi> Deafneſs, ſtoppage of the Ears, Pain and Impoſtume. <hi>Page 78</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 24.</hi> Of the Piles, and Procedentia Ani. <hi>Page 79</hi>
+                  </item>
+                  <item>
+                     <pb facs="tcp:184664:76"/>
+                     <hi>Chap. 25.</hi> For Boyls and Felons. <hi>Page 80</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 26.</hi> A Phlegmonous Tumor. <hi>Page 81</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 27.</hi> Of an Eryſipelas and Cholerick Puſhes. <hi>Page 82</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 28.</hi> Of Phlegmatick Tumors and <g ref="char:V">Ʋ</g>l<g ref="char:EOLhyphen"/>cers. <hi>Page 83</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 29.</hi> Of Cancers, Schirrhous Tumors, Phagadenick <g ref="char:V">Ʋ</g>lcers and Fiſtulaes. <hi>Page 85</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 30.</hi> Of Gravel and Strangury. <hi>Page 97</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 31.</hi> How to cure a Clap. <hi>Page 89</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 32.</hi> How to Cure a confirmed Pox. <hi>Page 93</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="3" type="book">
+               <head>
+                  <hi>The Third BOOK,</hi> Teacheth how the Sea-Chirurgeon ought to Execute the Phyſical Office impoſed on him at Sea. <hi>95</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>CHap. 1.</hi> Of the Scurvy. <hi>96</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 2.</hi> Of Fluxes. <hi>100</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 3.</hi> Of a Dyſentery or Bloody-Flux. <hi>101</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 4.</hi> Of a Colera. <hi>103</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 5.</hi> Of a Surfeit. <hi>105</hi>
+                  </item>
+                  <item>
+                     <pb facs="tcp:184664:76"/>
+                     <hi>Chap. 6.</hi> Of the Pleuriſie. <hi>108</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 7.</hi> Of the Cholick and Wind. <hi>109</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 8.</hi> Of Coſtiveneſs. <hi>111</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 9.</hi> Of the Worms. <hi>112</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 10.</hi> Of Colds, Coughs, Rhumes, Ca<g ref="char:EOLhyphen"/>tarrhs. <hi>113</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 11.</hi> Of continual Feavers or Calen<g ref="char:EOLhyphen"/>tures. <hi>115</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 12.</hi> Of Agues, or intermitting Fea<g ref="char:EOLhyphen"/>vers. <hi>121</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. 13.</hi> Of the Meaſles, and Small Pox. <hi>123</hi>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:184664:77"/>
+            <pb facs="tcp:184664:77"/>
+         </div>
+      </back>
+   </text>
+</TEI>
